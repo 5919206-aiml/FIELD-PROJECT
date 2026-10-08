@@ -1,0 +1,1001 @@
+Name,Gender,Age,Occupation,Invested_in_Stock_Market,Stock_Checking_Frequency,Investment_Interest,Uses_Stock_Market_Apps_Websites,Most_Useful_Information,Dashboard_Useful,Dashboard_Ease_of_Use,Preferred_Time_Period,Would_Use_MA20_MA50,Preferred_Feature,Visualization_Importance,Would_Recommend_Dashboard
+Priya,Female,31,Private Employee,Yes,Never,Mutual Funds,Yes,Price,Yes,Easy,1 Year,No,All Features,Important,Yes
+Shubham,Male,22,Student,No,Never,Mutual Funds,No,Charts,No,Very Easy,6 Months,Maybe,All Features,Important,Yes
+Aarav,Male,22,Student,Yes,Never,Fixed Deposits,Yes,Charts,Yes,Moderate,6 Months,Yes,All Features,Important,Yes
+Amit,Male,25,Student,No,Never,Gold,No,Price,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Vaishnavi,Female,25,Student,No,Rarely,Gold,Yes,Moving Average,Yes,Moderate,5 Years,Yes,Historical Data,Moderately Important,Yes
+Om,Male,27,Private Employee,Yes,Never,Stocks,Yes,Price,Maybe,Easy,6 Months,Yes,Moving Average,Important,Yes
+Mansi,Female,27,Business,Yes,Several times a week,Mutual Funds,Yes,Historical Data,Yes,Easy,1 Year,Yes,Moving Average,Important,Yes
+Mansi,Female,32,Other,No,Rarely,Cryptocurrency,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Important,No
+Om,Male,19,Other,Yes,Weekly,Stocks,Yes,Charts,Yes,Very Easy,6 Months,Yes,Price Charts,Important,Yes
+Saurabh,Male,26,Student,No,Rarely,Stocks,Yes,Moving Average,Yes,Easy,5 Years,Yes,Moving Average,Very Important,Yes
+Om,Male,30,Business,No,Weekly,Cryptocurrency,Yes,Charts,Maybe,Easy,1 Year,Yes,Moving Average,Important,Yes
+Kavya,Female,35,Student,No,Rarely,Fixed Deposits,Yes,Charts,Yes,Very Easy,5 Years,Yes,Price Charts,Moderately Important,No
+Aditya,Male,18,Private Employee,Yes,Never,Gold,Yes,Price,Maybe,Easy,5 Years,Maybe,Moving Average,Very Important,Yes
+Arjun,Male,18,Student,Yes,Weekly,Mutual Funds,Yes,Price,Yes,Easy,1 Year,Yes,Price Charts,Important,Maybe
+Karan,Male,32,Private Employee,No,Weekly,Mutual Funds,No,Price,Yes,Easy,1 Year,Yes,Trend Indicator,Moderately Important,Maybe
+Vaishnavi,Female,33,Student,Yes,Several times a week,Gold,No,Price,Yes,Very Easy,1 Year,Yes,All Features,Very Important,Yes
+Amit,Male,22,Business,Yes,Rarely,Stocks,No,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Yes
+Sanket,Male,23,Student,Yes,Rarely,Fixed Deposits,Yes,Moving Average,Yes,Very Easy,6 Months,Yes,Historical Data,Important,Yes
+Aditya,Male,31,Student,No,Never,Mutual Funds,No,Moving Average,Maybe,Easy,1 Year,Yes,Price Charts,Important,Yes
+Atharva,Male,22,Business,Yes,Rarely,Mutual Funds,No,Charts,Yes,Moderate,5 Years,Yes,Trend Indicator,Important,Maybe
+Vaishnavi,Female,32,Student,No,Never,Stocks,Yes,Moving Average,Yes,Very Easy,5 Years,Yes,All Features,Very Important,Yes
+Tanvi,Female,24,Student,No,Daily,Stocks,No,Price,Yes,Easy,6 Months,Maybe,All Features,Very Important,Yes
+Tanvi,Female,29,Government Employee,No,Weekly,Fixed Deposits,Yes,Moving Average,Yes,Easy,5 Years,Maybe,All Features,Important,Yes
+Sakshi,Female,20,Student,No,Weekly,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Nikita,Female,20,Business,Yes,Never,Mutual Funds,Yes,Volume,Yes,Easy,1 Year,No,Historical Data,Important,Yes
+Vikas,Male,26,Business,No,Weekly,Stocks,No,Historical Data,Yes,Very Easy,1 Month,Yes,All Features,Important,Maybe
+Atharva,Male,18,Student,No,Never,Stocks,No,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Maybe
+Akash,Male,33,Student,No,Rarely,Gold,Yes,Volume,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Dev,Male,24,Student,Yes,Several times a week,Stocks,No,Charts,Maybe,Moderate,6 Months,No,Moving Average,Very Important,Yes
+Priya,Female,26,Government Employee,No,Several times a week,Gold,Yes,Moving Average,Maybe,Easy,1 Year,Yes,Trend Indicator,Very Important,Yes
+Arjun,Male,26,Student,No,Never,Gold,Yes,Moving Average,Yes,Easy,1 Year,No,Historical Data,Important,Yes
+Saurabh,Male,33,Government Employee,Yes,Rarely,Stocks,Yes,Historical Data,Maybe,Moderate,6 Months,Yes,Trend Indicator,Important,Yes
+Vivek,Male,23,Student,No,Weekly,Stocks,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Aarav,Male,18,Private Employee,Yes,Never,Mutual Funds,No,Historical Data,No,Easy,1 Year,Yes,All Features,Moderately Important,Yes
+Aarav,Male,30,Business,No,Several times a week,Stocks,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Moderately Important,Yes
+Akash,Male,18,Business,No,Rarely,Stocks,Yes,Volume,Maybe,Very Easy,1 Year,Yes,Historical Data,Important,No
+Atharva,Male,26,Business,Yes,Rarely,Mutual Funds,Yes,Charts,Yes,Moderate,1 Year,Yes,All Features,Very Important,Yes
+Kavya,Female,34,Student,No,Never,Mutual Funds,Yes,Historical Data,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Simran,Female,23,Business,Yes,Daily,Stocks,Yes,Charts,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Saurabh,Male,31,Private Employee,No,Several times a week,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Very Important,Maybe
+Pooja,Female,24,Government Employee,No,Daily,Gold,Yes,Price,Yes,Very Easy,1 Year,Maybe,Trend Indicator,Important,Yes
+Vivek,Male,24,Student,Yes,Never,Stocks,Yes,Moving Average,Maybe,Easy,1 Year,Yes,All Features,Important,Maybe
+Arjun,Male,22,Student,Yes,Rarely,Mutual Funds,No,Charts,Maybe,Moderate,1 Year,Yes,Moving Average,Important,Yes
+Om,Male,22,Private Employee,Yes,Rarely,Mutual Funds,No,Moving Average,Yes,Easy,1 Year,Yes,Trend Indicator,Moderately Important,Maybe
+Komal,Female,18,Student,No,Rarely,Fixed Deposits,No,Charts,Yes,Very Easy,1 Year,Maybe,Moving Average,Moderately Important,Yes
+Aniket,Male,35,Government Employee,Yes,Rarely,Stocks,Yes,Price,Yes,Easy,1 Month,Maybe,Moving Average,Very Important,Yes
+Dev,Male,27,Student,Yes,Weekly,Fixed Deposits,No,Historical Data,Yes,Easy,6 Months,No,Trend Indicator,Important,Maybe
+Sneha,Female,34,Business,No,Weekly,Stocks,Yes,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Yes
+Vivek,Male,25,Student,No,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Maybe,All Features,Important,Maybe
+Shruti,Female,32,Student,No,Weekly,Gold,Yes,Moving Average,Yes,Very Easy,1 Year,Yes,All Features,Very Important,Yes
+Atharva,Male,31,Student,Yes,Rarely,Mutual Funds,Yes,Charts,Yes,Easy,6 Months,Yes,Trend Indicator,Very Important,No
+Aanya,Female,32,Private Employee,No,Never,Stocks,Yes,Volume,Yes,Easy,6 Months,Yes,Price Charts,Moderately Important,Yes
+Nikita,Female,21,Private Employee,Yes,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Aditya,Male,23,Private Employee,No,Weekly,Fixed Deposits,Yes,Price,No,Easy,6 Months,No,Price Charts,Moderately Important,Yes
+Amit,Male,20,Business,Yes,Several times a week,Stocks,No,Charts,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Aarav,Male,31,Business,Yes,Rarely,Cryptocurrency,No,Volume,No,Easy,6 Months,Yes,All Features,Important,Yes
+Dhruv,Male,27,Private Employee,No,Weekly,Mutual Funds,Yes,Price,Yes,Easy,1 Year,Yes,All Features,Important,No
+Sneha,Female,27,Private Employee,No,Never,Mutual Funds,Yes,Charts,Yes,Very Easy,1 Year,No,All Features,Very Important,Yes
+Kavya,Female,22,Private Employee,Yes,Never,Gold,No,Moving Average,Maybe,Easy,1 Year,Maybe,All Features,Important,Yes
+Vivek,Male,27,Private Employee,No,Rarely,Gold,No,Charts,Yes,Moderate,6 Months,Yes,All Features,Very Important,Maybe
+Nikita,Female,24,Private Employee,No,Rarely,Mutual Funds,Yes,Historical Data,Yes,Very Easy,1 Year,Yes,Moving Average,Important,Maybe
+Ankita,Female,23,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Ankita,Female,25,Student,No,Daily,Fixed Deposits,No,Historical Data,Yes,Moderate,6 Months,Yes,Moving Average,Important,Yes
+Sneha,Female,35,Government Employee,No,Never,Mutual Funds,No,Charts,Yes,Easy,1 Month,Yes,All Features,Very Important,Maybe
+Aanya,Female,21,Student,No,Rarely,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Saurabh,Male,21,Student,No,Rarely,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Moving Average,Very Important,Yes
+Ankita,Female,26,Private Employee,No,Rarely,Cryptocurrency,No,Historical Data,Yes,Moderate,1 Month,Maybe,Moving Average,Moderately Important,No
+Saurabh,Male,21,Student,No,Rarely,Stocks,No,Price,No,Easy,1 Month,No,Price Charts,Very Important,Yes
+Saurabh,Male,30,Student,Yes,Daily,Mutual Funds,Yes,Price,No,Easy,6 Months,Maybe,Trend Indicator,Important,Maybe
+Aarav,Male,25,Business,Yes,Several times a week,Fixed Deposits,Yes,Price,Maybe,Easy,5 Years,Yes,Moving Average,Very Important,Yes
+Yash,Male,35,Government Employee,Yes,Several times a week,Fixed Deposits,Yes,Volume,Maybe,Easy,1 Month,No,All Features,Important,Yes
+Aanya,Female,19,Student,No,Weekly,Cryptocurrency,No,Moving Average,Maybe,Very Easy,1 Year,Yes,All Features,Important,Yes
+Diya,Female,24,Government Employee,Yes,Rarely,Mutual Funds,No,Moving Average,Maybe,Easy,1 Year,Yes,Price Charts,Important,Yes
+Pooja,Female,32,Private Employee,Yes,Never,Cryptocurrency,No,Volume,No,Moderate,1 Year,Yes,Trend Indicator,Important,Maybe
+Shubham,Male,22,Private Employee,Yes,Never,Stocks,Yes,Historical Data,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Tanvi,Female,32,Private Employee,No,Weekly,Mutual Funds,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Important,Maybe
+Rahul,Male,18,Student,Yes,Weekly,Stocks,Yes,Charts,Yes,Easy,1 Year,Yes,Price Charts,Important,No
+Saurabh,Male,27,Business,No,Weekly,Stocks,Yes,Charts,Maybe,Very Easy,6 Months,Maybe,Historical Data,Moderately Important,Yes
+Shubham,Male,32,Business,No,Daily,Stocks,No,Charts,Maybe,Very Easy,1 Year,Yes,Price Charts,Important,Yes
+Komal,Female,23,Student,No,Several times a week,Stocks,No,Price,Yes,Easy,6 Months,Yes,Trend Indicator,Very Important,Maybe
+Aarav,Male,26,Government Employee,Yes,Weekly,Gold,No,Charts,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Mansi,Female,33,Other,Yes,Several times a week,Fixed Deposits,No,Charts,Maybe,Easy,6 Months,Yes,Trend Indicator,Very Important,Yes
+Sanket,Male,34,Other,No,Rarely,Stocks,No,Moving Average,Yes,Very Easy,6 Months,Maybe,Historical Data,Moderately Important,Yes
+Aditya,Male,35,Government Employee,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Tanvi,Female,25,Student,Yes,Never,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Moving Average,Very Important,Yes
+Anjali,Female,20,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Easy,5 Years,Maybe,Trend Indicator,Very Important,Yes
+Dev,Male,21,Student,Yes,Rarely,Stocks,Yes,Moving Average,Yes,Easy,5 Years,Yes,Price Charts,Moderately Important,Yes
+Arjun,Male,23,Student,No,Weekly,Fixed Deposits,Yes,Volume,Yes,Very Easy,1 Year,Yes,Moving Average,Important,Yes
+Om,Male,29,Business,No,Weekly,Fixed Deposits,Yes,Moving Average,Maybe,Easy,1 Month,No,All Features,Very Important,Yes
+Vikas,Male,23,Private Employee,No,Rarely,Cryptocurrency,No,Price,Yes,Easy,6 Months,Yes,All Features,Important,Yes
+Isha,Female,18,Private Employee,No,Rarely,Gold,Yes,Historical Data,Yes,Very Easy,1 Month,Yes,Moving Average,Very Important,Yes
+Nikita,Female,23,Student,Yes,Never,Fixed Deposits,No,Charts,Yes,Very Easy,1 Year,No,Price Charts,Important,Yes
+Arjun,Male,32,Student,No,Never,Mutual Funds,No,Volume,Yes,Easy,6 Months,Maybe,Price Charts,Important,Yes
+Vaishnavi,Female,26,Private Employee,Yes,Weekly,Cryptocurrency,Yes,Charts,Maybe,Easy,5 Years,Yes,Price Charts,Very Important,Yes
+Shruti,Female,32,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Very Easy,5 Years,Yes,Trend Indicator,Very Important,Maybe
+Aanya,Female,27,Private Employee,Yes,Weekly,Fixed Deposits,No,Price,Yes,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Aditya,Male,25,Private Employee,Yes,Weekly,Stocks,Yes,Historical Data,Yes,Very Easy,6 Months,Yes,Trend Indicator,Very Important,Yes
+Dhruv,Male,22,Private Employee,No,Never,Mutual Funds,No,Volume,Maybe,Easy,5 Years,Yes,Price Charts,Important,Yes
+Dhruv,Male,30,Student,Yes,Daily,Fixed Deposits,No,Historical Data,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Saurabh,Male,19,Student,No,Weekly,Mutual Funds,No,Moving Average,Yes,Easy,6 Months,Yes,All Features,Very Important,Maybe
+Rohan,Male,26,Private Employee,Yes,Never,Stocks,Yes,Charts,Yes,Moderate,1 Month,No,Moving Average,Important,Yes
+Mansi,Female,33,Student,No,Rarely,Fixed Deposits,No,Price,Yes,Very Easy,1 Year,Yes,Moving Average,Important,Yes
+Shubham,Male,20,Student,No,Weekly,Gold,Yes,Moving Average,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Sahil,Male,25,Student,No,Several times a week,Mutual Funds,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Important,Maybe
+Akash,Male,31,Student,No,Daily,Mutual Funds,Yes,Price,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Aanya,Female,35,Student,Yes,Rarely,Gold,Yes,Historical Data,Yes,Easy,1 Year,No,Moving Average,Very Important,Yes
+Aanya,Female,24,Student,Yes,Several times a week,Fixed Deposits,Yes,Charts,Yes,Moderate,5 Years,Maybe,Historical Data,Important,Yes
+Karan,Male,24,Business,No,Weekly,Gold,Yes,Moving Average,Yes,Easy,6 Months,Yes,Price Charts,Important,Yes
+Pooja,Female,30,Student,No,Weekly,Stocks,Yes,Charts,Maybe,Very Easy,1 Year,Maybe,Moving Average,Very Important,Yes
+Sahil,Male,28,Government Employee,Yes,Weekly,Fixed Deposits,Yes,Moving Average,Yes,Very Easy,5 Years,Yes,All Features,Important,No
+Rahul,Male,34,Student,No,Rarely,Mutual Funds,Yes,Volume,Yes,Very Easy,6 Months,Yes,Trend Indicator,Important,Maybe
+Arjun,Male,33,Student,Yes,Rarely,Gold,Yes,Volume,Yes,Easy,5 Years,Maybe,Moving Average,Important,Yes
+Amit,Male,20,Student,No,Weekly,Mutual Funds,Yes,Charts,Yes,Very Easy,6 Months,Yes,All Features,Very Important,Yes
+Kavya,Female,27,Business,No,Rarely,Mutual Funds,Yes,Charts,Maybe,Easy,1 Year,Yes,Historical Data,Important,Yes
+Arjun,Male,23,Other,No,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Maybe,All Features,Important,Yes
+Yash,Male,23,Private Employee,Yes,Rarely,Mutual Funds,Yes,Price,Maybe,Easy,1 Year,Yes,All Features,Moderately Important,Yes
+Akash,Male,34,Private Employee,No,Several times a week,Stocks,Yes,Moving Average,Yes,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Dev,Male,31,Business,Yes,Several times a week,Cryptocurrency,Yes,Charts,No,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Om,Male,34,Business,No,Weekly,Mutual Funds,No,Price,Yes,Very Easy,1 Year,Maybe,Trend Indicator,Moderately Important,Maybe
+Vaishnavi,Female,27,Student,No,Weekly,Fixed Deposits,No,Moving Average,Maybe,Easy,1 Year,Yes,Historical Data,Very Important,Yes
+Nikita,Female,31,Student,No,Several times a week,Stocks,No,Charts,Yes,Moderate,1 Year,Yes,All Features,Moderately Important,Yes
+Karan,Male,32,Private Employee,No,Weekly,Stocks,Yes,Price,Yes,Moderate,5 Years,Maybe,All Features,Important,Yes
+Om,Male,21,Private Employee,No,Several times a week,Stocks,No,Moving Average,Maybe,Easy,6 Months,No,All Features,Very Important,Yes
+Saurabh,Male,19,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,6 Months,Yes,Trend Indicator,Important,Maybe
+Ankita,Female,31,Government Employee,Yes,Several times a week,Gold,Yes,Charts,Yes,Very Easy,5 Years,Yes,Moving Average,Moderately Important,Yes
+Nikita,Female,32,Business,No,Never,Mutual Funds,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Vivek,Male,31,Private Employee,Yes,Daily,Stocks,Yes,Price,Yes,Very Easy,6 Months,Yes,Moving Average,Moderately Important,Maybe
+Dhruv,Male,32,Student,Yes,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Maybe
+Tanvi,Female,23,Private Employee,No,Weekly,Gold,Yes,Moving Average,Maybe,Very Easy,1 Month,Yes,Trend Indicator,Very Important,Yes
+Yash,Male,18,Student,Yes,Weekly,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Historical Data,Important,Yes
+Diya,Female,35,Other,Yes,Several times a week,Stocks,Yes,Price,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Dev,Male,34,Private Employee,No,Daily,Stocks,Yes,Charts,Yes,Moderate,5 Years,No,Trend Indicator,Very Important,Yes
+Pooja,Female,25,Business,No,Never,Gold,No,Charts,Yes,Moderate,5 Years,Yes,All Features,Moderately Important,Yes
+Priya,Female,25,Student,No,Rarely,Stocks,No,Price,No,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Pallavi,Female,33,Student,No,Weekly,Mutual Funds,No,Charts,Yes,Easy,1 Month,Yes,Moving Average,Important,Yes
+Dev,Male,23,Student,Yes,Rarely,Fixed Deposits,Yes,Charts,No,Easy,6 Months,Yes,Moving Average,Important,Yes
+Karan,Male,29,Government Employee,Yes,Weekly,Stocks,Yes,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Moderately Important,Yes
+Shubham,Male,26,Government Employee,No,Weekly,Mutual Funds,No,Moving Average,Yes,Easy,1 Year,Yes,All Features,Very Important,Maybe
+Dev,Male,19,Private Employee,No,Never,Gold,Yes,Historical Data,Maybe,Easy,6 Months,Yes,Price Charts,Very Important,Yes
+Vivek,Male,23,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Sanket,Male,24,Private Employee,Yes,Rarely,Mutual Funds,Yes,Historical Data,No,Easy,1 Year,Yes,Moving Average,Moderately Important,Yes
+Sahil,Male,25,Student,Yes,Never,Gold,Yes,Price,Maybe,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Shruti,Female,34,Private Employee,Yes,Never,Cryptocurrency,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Very Important,Yes
+Dev,Male,35,Student,No,Daily,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Very Important,Yes
+Shubham,Male,20,Student,No,Weekly,Stocks,No,Moving Average,Yes,Moderate,1 Year,Maybe,Price Charts,Very Important,No
+Mansi,Female,32,Student,Yes,Never,Stocks,Yes,Volume,Yes,Easy,1 Month,Maybe,Trend Indicator,Important,Yes
+Neha,Female,20,Student,No,Rarely,Mutual Funds,Yes,Historical Data,Maybe,Easy,5 Years,Maybe,Historical Data,Important,Yes
+Vikas,Male,19,Student,Yes,Rarely,Gold,No,Price,Maybe,Easy,1 Month,Yes,All Features,Important,Yes
+Ankita,Female,18,Business,No,Never,Stocks,Yes,Volume,Yes,Easy,1 Year,Maybe,Price Charts,Important,Maybe
+Diya,Female,29,Student,Yes,Several times a week,Mutual Funds,Yes,Moving Average,Maybe,Easy,6 Months,Maybe,Price Charts,Important,Maybe
+Dev,Male,35,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,1 Year,Yes,Trend Indicator,Important,No
+Nikita,Female,19,Government Employee,Yes,Rarely,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Aarav,Male,29,Private Employee,Yes,Weekly,Gold,Yes,Moving Average,Yes,Moderate,5 Years,Yes,All Features,Moderately Important,Yes
+Sanket,Male,33,Student,No,Weekly,Stocks,No,Moving Average,Yes,Easy,6 Months,Yes,Price Charts,Very Important,Yes
+Mansi,Female,31,Student,No,Never,Fixed Deposits,Yes,Charts,Yes,Moderate,1 Year,Yes,Trend Indicator,Important,Yes
+Atharva,Male,25,Business,No,Several times a week,Mutual Funds,Yes,Price,Yes,Easy,6 Months,Yes,Moving Average,Important,Yes
+Komal,Female,25,Student,No,Rarely,Gold,Yes,Charts,Yes,Moderate,6 Months,Yes,Price Charts,Important,Yes
+Simran,Female,31,Student,Yes,Weekly,Fixed Deposits,Yes,Moving Average,Yes,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Priya,Female,31,Private Employee,No,Never,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,Moving Average,Very Important,Maybe
+Aarav,Male,31,Private Employee,No,Rarely,Stocks,Yes,Price,Yes,Easy,5 Years,Maybe,All Features,Very Important,Yes
+Om,Male,19,Student,No,Weekly,Fixed Deposits,No,Charts,No,Easy,5 Years,Maybe,All Features,Moderately Important,Maybe
+Pallavi,Female,21,Private Employee,No,Never,Stocks,Yes,Price,Yes,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Shubham,Male,21,Private Employee,No,Weekly,Fixed Deposits,Yes,Charts,Yes,Easy,6 Months,Yes,Price Charts,Moderately Important,Yes
+Om,Male,26,Private Employee,Yes,Rarely,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Very Important,Yes
+Nikita,Female,33,Private Employee,No,Rarely,Stocks,Yes,Price,Yes,Easy,1 Month,Yes,All Features,Very Important,No
+Pooja,Female,32,Business,No,Never,Cryptocurrency,No,Charts,Yes,Easy,5 Years,Yes,All Features,Important,Yes
+Vivek,Male,34,Student,No,Several times a week,Stocks,No,Price,Yes,Moderate,1 Month,Yes,All Features,Moderately Important,Maybe
+Neha,Female,21,Student,Yes,Weekly,Stocks,Yes,Historical Data,Yes,Easy,1 Month,Yes,All Features,Important,No
+Aanya,Female,21,Private Employee,Yes,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Yes,All Features,Important,No
+Aditya,Male,32,Government Employee,No,Rarely,Stocks,No,Charts,Yes,Very Easy,6 Months,Maybe,Moving Average,Moderately Important,Yes
+Pallavi,Female,29,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Easy,1 Year,No,Moving Average,Important,Maybe
+Shubham,Male,24,Student,Yes,Rarely,Gold,No,Price,Yes,Very Easy,6 Months,Maybe,Price Charts,Important,Yes
+Nikita,Female,21,Private Employee,Yes,Weekly,Cryptocurrency,No,Historical Data,Yes,Moderate,5 Years,Maybe,Trend Indicator,Very Important,Maybe
+Komal,Female,23,Private Employee,No,Weekly,Stocks,No,Historical Data,Yes,Easy,5 Years,Yes,All Features,Important,Yes
+Ankita,Female,33,Private Employee,Yes,Weekly,Mutual Funds,Yes,Volume,No,Moderate,1 Year,Maybe,Price Charts,Very Important,Maybe
+Dev,Male,26,Student,Yes,Never,Fixed Deposits,No,Charts,Yes,Moderate,1 Year,Yes,Price Charts,Very Important,Maybe
+Shubham,Male,30,Business,No,Never,Stocks,No,Price,Maybe,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Yes
+Dev,Male,28,Business,No,Never,Fixed Deposits,Yes,Price,Yes,Easy,1 Year,Yes,Moving Average,Important,Yes
+Rahul,Male,33,Private Employee,Yes,Rarely,Mutual Funds,No,Moving Average,Maybe,Very Easy,1 Year,Yes,Price Charts,Moderately Important,No
+Dev,Male,31,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Aniket,Male,31,Private Employee,No,Several times a week,Fixed Deposits,No,Charts,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Vikas,Male,23,Private Employee,Yes,Rarely,Stocks,No,Charts,Yes,Very Easy,5 Years,Yes,All Features,Very Important,Yes
+Dev,Male,35,Student,Yes,Rarely,Gold,No,Price,Maybe,Easy,1 Month,Yes,Historical Data,Important,Yes
+Shruti,Female,31,Private Employee,Yes,Daily,Stocks,Yes,Charts,Yes,Easy,6 Months,Maybe,Trend Indicator,Important,Yes
+Rohan,Male,25,Business,Yes,Rarely,Gold,Yes,Volume,Maybe,Easy,1 Month,Yes,Price Charts,Important,Yes
+Priya,Female,30,Private Employee,No,Several times a week,Fixed Deposits,No,Price,Maybe,Very Easy,5 Years,Maybe,All Features,Important,Yes
+Rahul,Male,19,Student,No,Weekly,Gold,No,Volume,Yes,Easy,5 Years,Yes,Historical Data,Very Important,Maybe
+Shubham,Male,30,Student,No,Rarely,Gold,No,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Important,Yes
+Diya,Female,29,Student,Yes,Several times a week,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Important,Yes
+Vaishnavi,Female,35,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Aditya,Male,19,Government Employee,Yes,Several times a week,Stocks,No,Historical Data,Yes,Moderate,1 Year,Yes,Historical Data,Very Important,Yes
+Mansi,Female,27,Other,Yes,Rarely,Stocks,Yes,Historical Data,Maybe,Very Easy,1 Year,Maybe,All Features,Important,Yes
+Akash,Male,20,Student,Yes,Weekly,Mutual Funds,No,Moving Average,Yes,Very Easy,5 Years,Maybe,Trend Indicator,Important,No
+Sakshi,Female,29,Student,Yes,Never,Gold,Yes,Charts,Yes,Easy,1 Month,No,Moving Average,Very Important,Yes
+Rahul,Male,21,Student,No,Daily,Fixed Deposits,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Moderately Important,Yes
+Mansi,Female,22,Private Employee,No,Several times a week,Gold,No,Charts,Yes,Easy,1 Year,No,All Features,Important,Yes
+Dhruv,Male,29,Government Employee,Yes,Daily,Fixed Deposits,Yes,Charts,Yes,Very Easy,5 Years,Yes,Price Charts,Important,Yes
+Pooja,Female,34,Business,No,Daily,Gold,No,Price,Yes,Easy,5 Years,Maybe,Moving Average,Important,Yes
+Shubham,Male,28,Student,Yes,Daily,Fixed Deposits,Yes,Price,Yes,Easy,5 Years,Yes,All Features,Very Important,Yes
+Rahul,Male,25,Business,No,Never,Fixed Deposits,Yes,Charts,Yes,Easy,5 Years,Yes,Moving Average,Moderately Important,Yes
+Shubham,Male,20,Student,No,Weekly,Gold,Yes,Moving Average,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Dev,Male,30,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Arjun,Male,31,Student,No,Never,Mutual Funds,No,Volume,Yes,Easy,6 Months,Maybe,Price Charts,Important,Yes
+Karan,Male,31,Private Employee,No,Weekly,Mutual Funds,No,Price,Yes,Easy,1 Year,Yes,Trend Indicator,Moderately Important,Maybe
+Aanya,Female,23,Student,Yes,Several times a week,Fixed Deposits,Yes,Charts,Yes,Moderate,5 Years,Maybe,Historical Data,Important,Yes
+Aanya,Female,19,Student,No,Weekly,Cryptocurrency,No,Moving Average,Maybe,Very Easy,1 Year,Yes,All Features,Important,Yes
+Diya,Female,28,Student,Yes,Several times a week,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Important,Yes
+Vaishnavi,Female,31,Student,No,Never,Stocks,Yes,Moving Average,Yes,Very Easy,5 Years,Yes,All Features,Very Important,Yes
+Shubham,Male,21,Student,No,Weekly,Gold,Yes,Moving Average,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Karan,Male,33,Private Employee,No,Weekly,Stocks,Yes,Price,Yes,Moderate,5 Years,Maybe,All Features,Important,Yes
+Shubham,Male,22,Private Employee,Yes,Never,Stocks,Yes,Historical Data,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Arjun,Male,24,Student,No,Weekly,Fixed Deposits,Yes,Volume,Yes,Very Easy,1 Year,Yes,Moving Average,Important,Yes
+Akash,Male,35,Private Employee,No,Several times a week,Stocks,Yes,Moving Average,Yes,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Saurabh,Male,20,Student,No,Weekly,Mutual Funds,No,Moving Average,Yes,Easy,6 Months,Yes,All Features,Very Important,Maybe
+Sahil,Male,25,Student,No,Several times a week,Mutual Funds,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Important,Maybe
+Nikita,Female,19,Government Employee,Yes,Rarely,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Diya,Female,34,Other,Yes,Several times a week,Stocks,Yes,Price,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Diya,Female,28,Student,Yes,Several times a week,Mutual Funds,Yes,Moving Average,Maybe,Easy,6 Months,Maybe,Price Charts,Important,Maybe
+Nikita,Female,21,Private Employee,Yes,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Shubham,Male,21,Student,No,Never,Mutual Funds,No,Charts,No,Very Easy,6 Months,Maybe,All Features,Important,Yes
+Arjun,Male,24,Student,No,Weekly,Fixed Deposits,Yes,Volume,Yes,Very Easy,1 Year,Yes,Moving Average,Important,Yes
+Simran,Female,31,Student,Yes,Weekly,Fixed Deposits,Yes,Moving Average,Yes,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Kavya,Female,35,Student,No,Never,Mutual Funds,Yes,Historical Data,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Yash,Male,18,Student,Yes,Weekly,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Historical Data,Important,Yes
+Mansi,Female,27,Other,Yes,Rarely,Stocks,Yes,Historical Data,Maybe,Very Easy,1 Year,Maybe,All Features,Important,Yes
+Shubham,Male,29,Student,No,Rarely,Gold,No,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Important,Yes
+Vaishnavi,Female,33,Student,No,Never,Stocks,Yes,Moving Average,Yes,Very Easy,5 Years,Yes,All Features,Very Important,Yes
+Om,Male,19,Student,No,Weekly,Fixed Deposits,No,Charts,No,Easy,5 Years,Maybe,All Features,Moderately Important,Maybe
+Sneha,Female,26,Private Employee,No,Never,Mutual Funds,Yes,Charts,Yes,Very Easy,1 Year,No,All Features,Very Important,Yes
+Tanvi,Female,24,Student,No,Daily,Stocks,No,Price,Yes,Easy,6 Months,Maybe,All Features,Very Important,Yes
+Om,Male,28,Business,No,Weekly,Fixed Deposits,Yes,Moving Average,Maybe,Easy,1 Month,No,All Features,Very Important,Yes
+Vivek,Male,25,Student,No,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Maybe,All Features,Important,Maybe
+Kavya,Female,21,Private Employee,Yes,Never,Gold,No,Moving Average,Maybe,Easy,1 Year,Maybe,All Features,Important,Yes
+Aditya,Male,32,Government Employee,No,Rarely,Stocks,No,Charts,Yes,Very Easy,6 Months,Maybe,Moving Average,Moderately Important,Yes
+Shubham,Male,31,Student,No,Rarely,Gold,No,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Important,Yes
+Karan,Male,32,Private Employee,No,Weekly,Mutual Funds,No,Price,Yes,Easy,1 Year,Yes,Trend Indicator,Moderately Important,Maybe
+Vaishnavi,Female,35,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Vaishnavi,Female,35,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Ankita,Female,32,Private Employee,Yes,Weekly,Mutual Funds,Yes,Volume,No,Moderate,1 Year,Maybe,Price Charts,Very Important,Maybe
+Vaishnavi,Female,35,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Atharva,Male,31,Student,Yes,Rarely,Mutual Funds,Yes,Charts,Yes,Easy,6 Months,Yes,Trend Indicator,Very Important,No
+Karan,Male,24,Business,No,Weekly,Gold,Yes,Moving Average,Yes,Easy,6 Months,Yes,Price Charts,Important,Yes
+Amit,Male,20,Business,Yes,Several times a week,Stocks,No,Charts,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Sneha,Female,35,Government Employee,No,Never,Mutual Funds,No,Charts,Yes,Easy,1 Month,Yes,All Features,Very Important,Maybe
+Diya,Female,35,Other,Yes,Several times a week,Stocks,Yes,Price,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Atharva,Male,32,Student,Yes,Rarely,Mutual Funds,Yes,Charts,Yes,Easy,6 Months,Yes,Trend Indicator,Very Important,No
+Pallavi,Female,33,Student,No,Weekly,Mutual Funds,No,Charts,Yes,Easy,1 Month,Yes,Moving Average,Important,Yes
+Vaishnavi,Female,32,Student,No,Never,Stocks,Yes,Moving Average,Yes,Very Easy,5 Years,Yes,All Features,Very Important,Yes
+Diya,Female,24,Government Employee,Yes,Rarely,Mutual Funds,No,Moving Average,Maybe,Easy,1 Year,Yes,Price Charts,Important,Yes
+Vivek,Male,35,Student,No,Several times a week,Stocks,No,Price,Yes,Moderate,1 Month,Yes,All Features,Moderately Important,Maybe
+Sanket,Male,24,Student,Yes,Rarely,Fixed Deposits,Yes,Moving Average,Yes,Very Easy,6 Months,Yes,Historical Data,Important,Yes
+Dev,Male,33,Private Employee,No,Daily,Stocks,Yes,Charts,Yes,Moderate,5 Years,No,Trend Indicator,Very Important,Yes
+Om,Male,29,Business,No,Weekly,Fixed Deposits,Yes,Moving Average,Maybe,Easy,1 Month,No,All Features,Very Important,Yes
+Vivek,Male,26,Private Employee,No,Rarely,Gold,No,Charts,Yes,Moderate,6 Months,Yes,All Features,Very Important,Maybe
+Arjun,Male,18,Student,Yes,Weekly,Mutual Funds,Yes,Price,Yes,Easy,1 Year,Yes,Price Charts,Important,Maybe
+Om,Male,18,Other,Yes,Weekly,Stocks,Yes,Charts,Yes,Very Easy,6 Months,Yes,Price Charts,Important,Yes
+Vikas,Male,23,Private Employee,No,Rarely,Cryptocurrency,No,Price,Yes,Easy,6 Months,Yes,All Features,Important,Yes
+Nikita,Female,21,Private Employee,Yes,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Yash,Male,18,Student,Yes,Weekly,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Historical Data,Important,Yes
+Aditya,Male,34,Government Employee,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Nikita,Female,22,Student,Yes,Never,Fixed Deposits,No,Charts,Yes,Very Easy,1 Year,No,Price Charts,Important,Yes
+Rahul,Male,33,Student,No,Rarely,Mutual Funds,Yes,Volume,Yes,Very Easy,6 Months,Yes,Trend Indicator,Important,Maybe
+Shubham,Male,29,Student,No,Rarely,Gold,No,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Important,Yes
+Shubham,Male,28,Student,Yes,Daily,Fixed Deposits,Yes,Price,Yes,Easy,5 Years,Yes,All Features,Very Important,Yes
+Shubham,Male,25,Student,Yes,Rarely,Gold,No,Price,Yes,Very Easy,6 Months,Maybe,Price Charts,Important,Yes
+Mansi,Female,32,Other,No,Rarely,Cryptocurrency,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Important,No
+Ankita,Female,34,Private Employee,Yes,Weekly,Mutual Funds,Yes,Volume,No,Moderate,1 Year,Maybe,Price Charts,Very Important,Maybe
+Aarav,Male,29,Business,No,Several times a week,Stocks,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Moderately Important,Yes
+Aarav,Male,27,Government Employee,Yes,Weekly,Gold,No,Charts,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Om,Male,25,Private Employee,Yes,Rarely,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Very Important,Yes
+Shruti,Female,31,Student,No,Weekly,Gold,Yes,Moving Average,Yes,Very Easy,1 Year,Yes,All Features,Very Important,Yes
+Sahil,Male,25,Student,No,Several times a week,Mutual Funds,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Important,Maybe
+Dev,Male,33,Private Employee,No,Daily,Stocks,Yes,Charts,Yes,Moderate,5 Years,No,Trend Indicator,Very Important,Yes
+Shubham,Male,23,Student,No,Never,Mutual Funds,No,Charts,No,Very Easy,6 Months,Maybe,All Features,Important,Yes
+Priya,Female,25,Student,No,Rarely,Stocks,No,Price,No,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Aditya,Male,24,Private Employee,No,Weekly,Fixed Deposits,Yes,Price,No,Easy,6 Months,No,Price Charts,Moderately Important,Yes
+Aanya,Female,34,Student,Yes,Rarely,Gold,Yes,Historical Data,Yes,Easy,1 Year,No,Moving Average,Very Important,Yes
+Amit,Male,25,Student,No,Never,Gold,No,Price,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Aditya,Male,24,Private Employee,No,Weekly,Fixed Deposits,Yes,Price,No,Easy,6 Months,No,Price Charts,Moderately Important,Yes
+Aditya,Male,19,Government Employee,Yes,Several times a week,Stocks,No,Historical Data,Yes,Moderate,1 Year,Yes,Historical Data,Very Important,Yes
+Mansi,Female,33,Student,Yes,Never,Stocks,Yes,Volume,Yes,Easy,1 Month,Maybe,Trend Indicator,Important,Yes
+Om,Male,22,Private Employee,Yes,Rarely,Mutual Funds,No,Moving Average,Yes,Easy,1 Year,Yes,Trend Indicator,Moderately Important,Maybe
+Pallavi,Female,22,Private Employee,No,Never,Stocks,Yes,Price,Yes,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Vaishnavi,Female,35,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Arjun,Male,18,Student,Yes,Weekly,Mutual Funds,Yes,Price,Yes,Easy,1 Year,Yes,Price Charts,Important,Maybe
+Shruti,Female,33,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Very Easy,5 Years,Yes,Trend Indicator,Very Important,Maybe
+Sneha,Female,35,Business,No,Weekly,Stocks,Yes,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Yes
+Karan,Male,33,Private Employee,No,Weekly,Mutual Funds,No,Price,Yes,Easy,1 Year,Yes,Trend Indicator,Moderately Important,Maybe
+Rahul,Male,24,Business,No,Never,Fixed Deposits,Yes,Charts,Yes,Easy,5 Years,Yes,Moving Average,Moderately Important,Yes
+Vaishnavi,Female,35,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Saurabh,Male,32,Private Employee,No,Several times a week,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Very Important,Maybe
+Mansi,Female,32,Other,Yes,Several times a week,Fixed Deposits,No,Charts,Maybe,Easy,6 Months,Yes,Trend Indicator,Very Important,Yes
+Rahul,Male,33,Student,No,Rarely,Mutual Funds,Yes,Volume,Yes,Very Easy,6 Months,Yes,Trend Indicator,Important,Maybe
+Nikita,Female,21,Private Employee,Yes,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Sakshi,Female,19,Student,No,Weekly,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Sanket,Male,34,Student,No,Weekly,Stocks,No,Moving Average,Yes,Easy,6 Months,Yes,Price Charts,Very Important,Yes
+Shubham,Male,30,Student,No,Rarely,Gold,No,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Important,Yes
+Saurabh,Male,18,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,6 Months,Yes,Trend Indicator,Important,Maybe
+Pooja,Female,25,Government Employee,No,Daily,Gold,Yes,Price,Yes,Very Easy,1 Year,Maybe,Trend Indicator,Important,Yes
+Komal,Female,25,Student,No,Rarely,Gold,Yes,Charts,Yes,Moderate,6 Months,Yes,Price Charts,Important,Yes
+Karan,Male,31,Private Employee,No,Weekly,Mutual Funds,No,Price,Yes,Easy,1 Year,Yes,Trend Indicator,Moderately Important,Maybe
+Komal,Female,19,Student,No,Rarely,Fixed Deposits,No,Charts,Yes,Very Easy,1 Year,Maybe,Moving Average,Moderately Important,Yes
+Aanya,Female,20,Student,No,Rarely,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Om,Male,29,Business,No,Weekly,Fixed Deposits,Yes,Moving Average,Maybe,Easy,1 Month,No,All Features,Very Important,Yes
+Yash,Male,34,Government Employee,Yes,Several times a week,Fixed Deposits,Yes,Volume,Maybe,Easy,1 Month,No,All Features,Important,Yes
+Om,Male,18,Other,Yes,Weekly,Stocks,Yes,Charts,Yes,Very Easy,6 Months,Yes,Price Charts,Important,Yes
+Arjun,Male,24,Student,No,Weekly,Fixed Deposits,Yes,Volume,Yes,Very Easy,1 Year,Yes,Moving Average,Important,Yes
+Tanvi,Female,22,Private Employee,No,Weekly,Gold,Yes,Moving Average,Maybe,Very Easy,1 Month,Yes,Trend Indicator,Very Important,Yes
+Dev,Male,24,Student,Yes,Rarely,Fixed Deposits,Yes,Charts,No,Easy,6 Months,Yes,Moving Average,Important,Yes
+Ankita,Female,24,Student,No,Daily,Fixed Deposits,No,Historical Data,Yes,Moderate,6 Months,Yes,Moving Average,Important,Yes
+Dev,Male,19,Private Employee,No,Never,Gold,Yes,Historical Data,Maybe,Easy,6 Months,Yes,Price Charts,Very Important,Yes
+Aarav,Male,26,Government Employee,Yes,Weekly,Gold,No,Charts,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Dev,Male,24,Student,Yes,Rarely,Fixed Deposits,Yes,Charts,No,Easy,6 Months,Yes,Moving Average,Important,Yes
+Shubham,Male,20,Private Employee,No,Weekly,Fixed Deposits,Yes,Charts,Yes,Easy,6 Months,Yes,Price Charts,Moderately Important,Yes
+Shubham,Male,22,Private Employee,No,Weekly,Fixed Deposits,Yes,Charts,Yes,Easy,6 Months,Yes,Price Charts,Moderately Important,Yes
+Vivek,Male,22,Student,No,Weekly,Stocks,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Om,Male,22,Private Employee,No,Several times a week,Stocks,No,Moving Average,Maybe,Easy,6 Months,No,All Features,Very Important,Yes
+Vaishnavi,Female,26,Student,No,Rarely,Gold,Yes,Moving Average,Yes,Moderate,5 Years,Yes,Historical Data,Moderately Important,Yes
+Pooja,Female,25,Government Employee,No,Daily,Gold,Yes,Price,Yes,Very Easy,1 Year,Maybe,Trend Indicator,Important,Yes
+Akash,Male,33,Student,No,Rarely,Gold,Yes,Volume,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Pallavi,Female,33,Student,No,Weekly,Mutual Funds,No,Charts,Yes,Easy,1 Month,Yes,Moving Average,Important,Yes
+Aanya,Female,20,Student,No,Weekly,Cryptocurrency,No,Moving Average,Maybe,Very Easy,1 Year,Yes,All Features,Important,Yes
+Kavya,Female,35,Student,No,Rarely,Fixed Deposits,Yes,Charts,Yes,Very Easy,5 Years,Yes,Price Charts,Moderately Important,No
+Pallavi,Female,21,Private Employee,No,Never,Stocks,Yes,Price,Yes,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Vivek,Male,24,Student,No,Weekly,Stocks,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Sneha,Female,34,Business,No,Weekly,Stocks,Yes,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Yes
+Dev,Male,35,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,1 Year,Yes,Trend Indicator,Important,No
+Ankita,Female,22,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Atharva,Male,25,Business,Yes,Rarely,Mutual Funds,Yes,Charts,Yes,Moderate,1 Year,Yes,All Features,Very Important,Yes
+Dhruv,Male,29,Student,Yes,Daily,Fixed Deposits,No,Historical Data,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Shubham,Male,25,Student,Yes,Rarely,Gold,No,Price,Yes,Very Easy,6 Months,Maybe,Price Charts,Important,Yes
+Sahil,Male,25,Student,No,Several times a week,Mutual Funds,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Important,Maybe
+Aarav,Male,31,Business,No,Several times a week,Stocks,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Moderately Important,Yes
+Akash,Male,21,Student,Yes,Weekly,Mutual Funds,No,Moving Average,Yes,Very Easy,5 Years,Maybe,Trend Indicator,Important,No
+Rohan,Male,26,Private Employee,Yes,Never,Stocks,Yes,Charts,Yes,Moderate,1 Month,No,Moving Average,Important,Yes
+Ankita,Female,33,Private Employee,Yes,Weekly,Mutual Funds,Yes,Volume,No,Moderate,1 Year,Maybe,Price Charts,Very Important,Maybe
+Diya,Female,34,Other,Yes,Several times a week,Stocks,Yes,Price,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Priya,Female,30,Private Employee,Yes,Never,Mutual Funds,Yes,Price,Yes,Easy,1 Year,No,All Features,Important,Yes
+Vaishnavi,Female,26,Student,No,Rarely,Gold,Yes,Moving Average,Yes,Moderate,5 Years,Yes,Historical Data,Moderately Important,Yes
+Sahil,Male,26,Student,Yes,Never,Gold,Yes,Price,Maybe,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Shubham,Male,21,Student,No,Weekly,Gold,Yes,Moving Average,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Atharva,Male,18,Student,No,Never,Stocks,No,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Maybe
+Karan,Male,28,Government Employee,Yes,Weekly,Stocks,Yes,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Moderately Important,Yes
+Karan,Male,31,Private Employee,No,Weekly,Mutual Funds,No,Price,Yes,Easy,1 Year,Yes,Trend Indicator,Moderately Important,Maybe
+Vikas,Male,24,Private Employee,No,Rarely,Cryptocurrency,No,Price,Yes,Easy,6 Months,Yes,All Features,Important,Yes
+Vivek,Male,23,Student,Yes,Never,Stocks,Yes,Moving Average,Maybe,Easy,1 Year,Yes,All Features,Important,Maybe
+Saurabh,Male,19,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,6 Months,Yes,Trend Indicator,Important,Maybe
+Rahul,Male,33,Private Employee,Yes,Rarely,Mutual Funds,No,Moving Average,Maybe,Very Easy,1 Year,Yes,Price Charts,Moderately Important,No
+Ankita,Female,24,Student,No,Daily,Fixed Deposits,No,Historical Data,Yes,Moderate,6 Months,Yes,Moving Average,Important,Yes
+Aanya,Female,27,Private Employee,Yes,Weekly,Fixed Deposits,No,Price,Yes,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Aanya,Female,33,Private Employee,No,Never,Stocks,Yes,Volume,Yes,Easy,6 Months,Yes,Price Charts,Moderately Important,Yes
+Aanya,Female,26,Private Employee,Yes,Weekly,Fixed Deposits,No,Price,Yes,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Dev,Male,35,Private Employee,No,Daily,Stocks,Yes,Charts,Yes,Moderate,5 Years,No,Trend Indicator,Very Important,Yes
+Dev,Male,35,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,1 Year,Yes,Trend Indicator,Important,No
+Shruti,Female,33,Private Employee,Yes,Never,Cryptocurrency,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Very Important,Yes
+Pallavi,Female,29,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Easy,1 Year,No,Moving Average,Important,Maybe
+Dev,Male,24,Student,Yes,Several times a week,Stocks,No,Charts,Maybe,Moderate,6 Months,No,Moving Average,Very Important,Yes
+Akash,Male,19,Business,No,Rarely,Stocks,Yes,Volume,Maybe,Very Easy,1 Year,Yes,Historical Data,Important,No
+Aditya,Male,19,Private Employee,Yes,Never,Gold,Yes,Price,Maybe,Easy,5 Years,Maybe,Moving Average,Very Important,Yes
+Aarav,Male,31,Private Employee,No,Rarely,Stocks,Yes,Price,Yes,Easy,5 Years,Maybe,All Features,Very Important,Yes
+Yash,Male,35,Government Employee,Yes,Several times a week,Fixed Deposits,Yes,Volume,Maybe,Easy,1 Month,No,All Features,Important,Yes
+Rahul,Male,20,Student,No,Weekly,Gold,No,Volume,Yes,Easy,5 Years,Yes,Historical Data,Very Important,Maybe
+Anjali,Female,20,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Easy,5 Years,Maybe,Trend Indicator,Very Important,Yes
+Akash,Male,32,Student,No,Rarely,Gold,Yes,Volume,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Saurabh,Male,21,Student,No,Rarely,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Moving Average,Very Important,Yes
+Aditya,Male,33,Government Employee,No,Rarely,Stocks,No,Charts,Yes,Very Easy,6 Months,Maybe,Moving Average,Moderately Important,Yes
+Komal,Female,19,Student,No,Rarely,Fixed Deposits,No,Charts,Yes,Very Easy,1 Year,Maybe,Moving Average,Moderately Important,Yes
+Ankita,Female,22,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Rohan,Male,25,Business,Yes,Rarely,Gold,Yes,Volume,Maybe,Easy,1 Month,Yes,Price Charts,Important,Yes
+Priya,Female,24,Student,No,Rarely,Stocks,No,Price,No,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Akash,Male,33,Student,No,Rarely,Gold,Yes,Volume,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Akash,Male,33,Student,No,Rarely,Gold,Yes,Volume,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Karan,Male,24,Business,No,Weekly,Gold,Yes,Moving Average,Yes,Easy,6 Months,Yes,Price Charts,Important,Yes
+Om,Male,21,Private Employee,Yes,Rarely,Mutual Funds,No,Moving Average,Yes,Easy,1 Year,Yes,Trend Indicator,Moderately Important,Maybe
+Aditya,Male,35,Government Employee,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Priya,Female,25,Government Employee,No,Several times a week,Gold,Yes,Moving Average,Maybe,Easy,1 Year,Yes,Trend Indicator,Very Important,Yes
+Vaishnavi,Female,34,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Shubham,Male,23,Private Employee,Yes,Never,Stocks,Yes,Historical Data,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Dhruv,Male,31,Student,Yes,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Maybe
+Nikita,Female,24,Student,Yes,Never,Fixed Deposits,No,Charts,Yes,Very Easy,1 Year,No,Price Charts,Important,Yes
+Vaishnavi,Female,35,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Tanvi,Female,24,Private Employee,No,Weekly,Gold,Yes,Moving Average,Maybe,Very Easy,1 Month,Yes,Trend Indicator,Very Important,Yes
+Nikita,Female,30,Student,No,Several times a week,Stocks,No,Charts,Yes,Moderate,1 Year,Yes,All Features,Moderately Important,Yes
+Atharva,Male,19,Student,No,Never,Stocks,No,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Maybe
+Vaishnavi,Female,35,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Nikita,Female,32,Student,No,Several times a week,Stocks,No,Charts,Yes,Moderate,1 Year,Yes,All Features,Moderately Important,Yes
+Yash,Male,22,Private Employee,Yes,Rarely,Mutual Funds,Yes,Price,Maybe,Easy,1 Year,Yes,All Features,Moderately Important,Yes
+Aarav,Male,22,Student,Yes,Never,Fixed Deposits,Yes,Charts,Yes,Moderate,6 Months,Yes,All Features,Important,Yes
+Shubham,Male,20,Student,No,Weekly,Gold,Yes,Moving Average,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Pooja,Female,34,Business,No,Daily,Gold,No,Price,Yes,Easy,5 Years,Maybe,Moving Average,Important,Yes
+Rahul,Male,24,Business,No,Never,Fixed Deposits,Yes,Charts,Yes,Easy,5 Years,Yes,Moving Average,Moderately Important,Yes
+Mansi,Female,30,Student,No,Never,Fixed Deposits,Yes,Charts,Yes,Moderate,1 Year,Yes,Trend Indicator,Important,Yes
+Karan,Male,30,Government Employee,Yes,Weekly,Stocks,Yes,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Moderately Important,Yes
+Ankita,Female,22,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Nikita,Female,32,Private Employee,No,Rarely,Stocks,Yes,Price,Yes,Easy,1 Month,Yes,All Features,Very Important,No
+Atharva,Male,30,Student,Yes,Rarely,Mutual Funds,Yes,Charts,Yes,Easy,6 Months,Yes,Trend Indicator,Very Important,No
+Shubham,Male,25,Student,Yes,Rarely,Gold,No,Price,Yes,Very Easy,6 Months,Maybe,Price Charts,Important,Yes
+Nikita,Female,20,Government Employee,Yes,Rarely,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Kavya,Female,23,Private Employee,Yes,Never,Gold,No,Moving Average,Maybe,Easy,1 Year,Maybe,All Features,Important,Yes
+Dev,Male,32,Business,Yes,Several times a week,Cryptocurrency,Yes,Charts,No,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Aarav,Male,31,Private Employee,No,Rarely,Stocks,Yes,Price,Yes,Easy,5 Years,Maybe,All Features,Very Important,Yes
+Aanya,Female,26,Private Employee,Yes,Weekly,Fixed Deposits,No,Price,Yes,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Dev,Male,31,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Amit,Male,21,Student,No,Weekly,Mutual Funds,Yes,Charts,Yes,Very Easy,6 Months,Yes,All Features,Very Important,Yes
+Ankita,Female,24,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Priya,Female,29,Private Employee,No,Several times a week,Fixed Deposits,No,Price,Maybe,Very Easy,5 Years,Maybe,All Features,Important,Yes
+Aanya,Female,33,Private Employee,No,Never,Stocks,Yes,Volume,Yes,Easy,6 Months,Yes,Price Charts,Moderately Important,Yes
+Kavya,Female,35,Student,No,Rarely,Fixed Deposits,Yes,Charts,Yes,Very Easy,5 Years,Yes,Price Charts,Moderately Important,No
+Simran,Female,24,Business,Yes,Daily,Stocks,Yes,Charts,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Yash,Male,18,Student,Yes,Weekly,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Historical Data,Important,Yes
+Diya,Female,34,Other,Yes,Several times a week,Stocks,Yes,Price,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Amit,Male,21,Student,No,Weekly,Mutual Funds,Yes,Charts,Yes,Very Easy,6 Months,Yes,All Features,Very Important,Yes
+Rohan,Male,27,Private Employee,Yes,Never,Stocks,Yes,Charts,Yes,Moderate,1 Month,No,Moving Average,Important,Yes
+Amit,Male,19,Student,No,Weekly,Mutual Funds,Yes,Charts,Yes,Very Easy,6 Months,Yes,All Features,Very Important,Yes
+Shruti,Female,30,Private Employee,Yes,Daily,Stocks,Yes,Charts,Yes,Easy,6 Months,Maybe,Trend Indicator,Important,Yes
+Aarav,Male,25,Government Employee,Yes,Weekly,Gold,No,Charts,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Rahul,Male,18,Student,No,Weekly,Gold,No,Volume,Yes,Easy,5 Years,Yes,Historical Data,Very Important,Maybe
+Amit,Male,19,Student,No,Weekly,Mutual Funds,Yes,Charts,Yes,Very Easy,6 Months,Yes,All Features,Very Important,Yes
+Shubham,Male,22,Student,No,Never,Mutual Funds,No,Charts,No,Very Easy,6 Months,Maybe,All Features,Important,Yes
+Yash,Male,18,Student,Yes,Weekly,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Historical Data,Important,Yes
+Aditya,Male,24,Private Employee,No,Weekly,Fixed Deposits,Yes,Price,No,Easy,6 Months,No,Price Charts,Moderately Important,Yes
+Dev,Male,21,Student,Yes,Rarely,Stocks,Yes,Moving Average,Yes,Easy,5 Years,Yes,Price Charts,Moderately Important,Yes
+Tanvi,Female,23,Private Employee,No,Weekly,Gold,Yes,Moving Average,Maybe,Very Easy,1 Month,Yes,Trend Indicator,Very Important,Yes
+Neha,Female,19,Student,No,Rarely,Mutual Funds,Yes,Historical Data,Maybe,Easy,5 Years,Maybe,Historical Data,Important,Yes
+Nikita,Female,31,Business,No,Never,Mutual Funds,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Yash,Male,18,Student,Yes,Weekly,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Historical Data,Important,Yes
+Nikita,Female,20,Private Employee,Yes,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Shubham,Male,24,Student,Yes,Rarely,Gold,No,Price,Yes,Very Easy,6 Months,Maybe,Price Charts,Important,Yes
+Aarav,Male,30,Private Employee,No,Rarely,Stocks,Yes,Price,Yes,Easy,5 Years,Maybe,All Features,Very Important,Yes
+Pooja,Female,34,Business,No,Daily,Gold,No,Price,Yes,Easy,5 Years,Maybe,Moving Average,Important,Yes
+Aarav,Male,32,Private Employee,No,Rarely,Stocks,Yes,Price,Yes,Easy,5 Years,Maybe,All Features,Very Important,Yes
+Saurabh,Male,21,Student,No,Rarely,Stocks,No,Price,No,Easy,1 Month,No,Price Charts,Very Important,Yes
+Dev,Male,35,Student,Yes,Rarely,Gold,No,Price,Maybe,Easy,1 Month,Yes,Historical Data,Important,Yes
+Shruti,Female,32,Private Employee,Yes,Daily,Stocks,Yes,Charts,Yes,Easy,6 Months,Maybe,Trend Indicator,Important,Yes
+Om,Male,22,Private Employee,No,Several times a week,Stocks,No,Moving Average,Maybe,Easy,6 Months,No,All Features,Very Important,Yes
+Shubham,Male,20,Student,No,Weekly,Stocks,No,Moving Average,Yes,Moderate,1 Year,Maybe,Price Charts,Very Important,No
+Kavya,Female,33,Student,No,Never,Mutual Funds,Yes,Historical Data,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Sakshi,Female,20,Student,No,Weekly,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Saurabh,Male,31,Student,Yes,Daily,Mutual Funds,Yes,Price,No,Easy,6 Months,Maybe,Trend Indicator,Important,Maybe
+Yash,Male,22,Private Employee,Yes,Rarely,Mutual Funds,Yes,Price,Maybe,Easy,1 Year,Yes,All Features,Moderately Important,Yes
+Dhruv,Male,21,Private Employee,No,Never,Mutual Funds,No,Volume,Maybe,Easy,5 Years,Yes,Price Charts,Important,Yes
+Pooja,Female,33,Business,No,Daily,Gold,No,Price,Yes,Easy,5 Years,Maybe,Moving Average,Important,Yes
+Dev,Male,18,Private Employee,No,Never,Gold,Yes,Historical Data,Maybe,Easy,6 Months,Yes,Price Charts,Very Important,Yes
+Dev,Male,34,Student,No,Daily,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Very Important,Yes
+Aditya,Male,26,Private Employee,Yes,Weekly,Stocks,Yes,Historical Data,Yes,Very Easy,6 Months,Yes,Trend Indicator,Very Important,Yes
+Saurabh,Male,18,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,6 Months,Yes,Trend Indicator,Important,Maybe
+Rahul,Male,19,Student,No,Weekly,Gold,No,Volume,Yes,Easy,5 Years,Yes,Historical Data,Very Important,Maybe
+Aarav,Male,24,Business,Yes,Several times a week,Fixed Deposits,Yes,Price,Maybe,Easy,5 Years,Yes,Moving Average,Very Important,Yes
+Arjun,Male,32,Student,No,Never,Mutual Funds,No,Volume,Yes,Easy,6 Months,Maybe,Price Charts,Important,Yes
+Aarav,Male,21,Student,Yes,Never,Fixed Deposits,Yes,Charts,Yes,Moderate,6 Months,Yes,All Features,Important,Yes
+Vikas,Male,19,Student,Yes,Rarely,Gold,No,Price,Maybe,Easy,1 Month,Yes,All Features,Important,Yes
+Rahul,Male,18,Student,No,Weekly,Gold,No,Volume,Yes,Easy,5 Years,Yes,Historical Data,Very Important,Maybe
+Om,Male,26,Private Employee,Yes,Rarely,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Very Important,Yes
+Neha,Female,21,Student,No,Rarely,Mutual Funds,Yes,Historical Data,Maybe,Easy,5 Years,Maybe,Historical Data,Important,Yes
+Vikas,Male,24,Private Employee,No,Rarely,Cryptocurrency,No,Price,Yes,Easy,6 Months,Yes,All Features,Important,Yes
+Rahul,Male,21,Student,No,Daily,Fixed Deposits,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Moderately Important,Yes
+Neha,Female,19,Student,No,Rarely,Mutual Funds,Yes,Historical Data,Maybe,Easy,5 Years,Maybe,Historical Data,Important,Yes
+Vikas,Male,20,Student,Yes,Rarely,Gold,No,Price,Maybe,Easy,1 Month,Yes,All Features,Important,Yes
+Aanya,Female,28,Private Employee,Yes,Weekly,Fixed Deposits,No,Price,Yes,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Shubham,Male,29,Student,Yes,Daily,Fixed Deposits,Yes,Price,Yes,Easy,5 Years,Yes,All Features,Very Important,Yes
+Aanya,Female,33,Private Employee,No,Never,Stocks,Yes,Volume,Yes,Easy,6 Months,Yes,Price Charts,Moderately Important,Yes
+Om,Male,19,Student,No,Weekly,Fixed Deposits,No,Charts,No,Easy,5 Years,Maybe,All Features,Moderately Important,Maybe
+Neha,Female,21,Student,Yes,Weekly,Stocks,Yes,Historical Data,Yes,Easy,1 Month,Yes,All Features,Important,No
+Dhruv,Male,32,Student,Yes,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Maybe
+Simran,Female,22,Business,Yes,Daily,Stocks,Yes,Charts,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Mansi,Female,32,Other,Yes,Several times a week,Fixed Deposits,No,Charts,Maybe,Easy,6 Months,Yes,Trend Indicator,Very Important,Yes
+Sahil,Male,26,Student,No,Several times a week,Mutual Funds,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Important,Maybe
+Tanvi,Female,24,Private Employee,No,Weekly,Gold,Yes,Moving Average,Maybe,Very Easy,1 Month,Yes,Trend Indicator,Very Important,Yes
+Om,Male,29,Business,No,Weekly,Cryptocurrency,Yes,Charts,Maybe,Easy,1 Year,Yes,Moving Average,Important,Yes
+Rohan,Male,26,Business,Yes,Rarely,Gold,Yes,Volume,Maybe,Easy,1 Month,Yes,Price Charts,Important,Yes
+Dev,Male,28,Business,No,Never,Fixed Deposits,Yes,Price,Yes,Easy,1 Year,Yes,Moving Average,Important,Yes
+Dev,Male,35,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,1 Year,Yes,Trend Indicator,Important,No
+Priya,Female,32,Private Employee,No,Never,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,Moving Average,Very Important,Maybe
+Vivek,Male,24,Student,Yes,Never,Stocks,Yes,Moving Average,Maybe,Easy,1 Year,Yes,All Features,Important,Maybe
+Dhruv,Male,29,Student,Yes,Daily,Fixed Deposits,No,Historical Data,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Mansi,Female,28,Business,Yes,Several times a week,Mutual Funds,Yes,Historical Data,Yes,Easy,1 Year,Yes,Moving Average,Important,Yes
+Dev,Male,34,Student,No,Daily,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Very Important,Yes
+Vikas,Male,23,Private Employee,No,Rarely,Cryptocurrency,No,Price,Yes,Easy,6 Months,Yes,All Features,Important,Yes
+Arjun,Male,32,Student,Yes,Rarely,Gold,Yes,Volume,Yes,Easy,5 Years,Maybe,Moving Average,Important,Yes
+Vivek,Male,28,Private Employee,No,Rarely,Gold,No,Charts,Yes,Moderate,6 Months,Yes,All Features,Very Important,Maybe
+Amit,Male,21,Student,No,Weekly,Mutual Funds,Yes,Charts,Yes,Very Easy,6 Months,Yes,All Features,Very Important,Yes
+Shubham,Male,23,Student,No,Never,Mutual Funds,No,Charts,No,Very Easy,6 Months,Maybe,All Features,Important,Yes
+Tanvi,Female,24,Private Employee,No,Weekly,Gold,Yes,Moving Average,Maybe,Very Easy,1 Month,Yes,Trend Indicator,Very Important,Yes
+Sneha,Female,35,Business,No,Weekly,Stocks,Yes,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Yes
+Vivek,Male,23,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Dhruv,Male,29,Government Employee,Yes,Daily,Fixed Deposits,Yes,Charts,Yes,Very Easy,5 Years,Yes,Price Charts,Important,Yes
+Atharva,Male,25,Business,Yes,Rarely,Mutual Funds,Yes,Charts,Yes,Moderate,1 Year,Yes,All Features,Very Important,Yes
+Aarav,Male,30,Private Employee,No,Rarely,Stocks,Yes,Price,Yes,Easy,5 Years,Maybe,All Features,Very Important,Yes
+Om,Male,19,Other,Yes,Weekly,Stocks,Yes,Charts,Yes,Very Easy,6 Months,Yes,Price Charts,Important,Yes
+Dhruv,Male,29,Student,Yes,Daily,Fixed Deposits,No,Historical Data,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Neha,Female,20,Student,No,Rarely,Mutual Funds,Yes,Historical Data,Maybe,Easy,5 Years,Maybe,Historical Data,Important,Yes
+Sneha,Female,33,Business,No,Weekly,Stocks,Yes,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Yes
+Diya,Female,35,Other,Yes,Several times a week,Stocks,Yes,Price,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Vikas,Male,19,Student,Yes,Rarely,Gold,No,Price,Maybe,Easy,1 Month,Yes,All Features,Important,Yes
+Nikita,Female,20,Government Employee,Yes,Rarely,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Aditya,Male,22,Private Employee,No,Weekly,Fixed Deposits,Yes,Price,No,Easy,6 Months,No,Price Charts,Moderately Important,Yes
+Vaishnavi,Female,28,Student,No,Weekly,Fixed Deposits,No,Moving Average,Maybe,Easy,1 Year,Yes,Historical Data,Very Important,Yes
+Om,Male,20,Student,No,Weekly,Fixed Deposits,No,Charts,No,Easy,5 Years,Maybe,All Features,Moderately Important,Maybe
+Nikita,Female,19,Government Employee,Yes,Rarely,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Yash,Male,23,Private Employee,Yes,Rarely,Mutual Funds,Yes,Price,Maybe,Easy,1 Year,Yes,All Features,Moderately Important,Yes
+Shubham,Male,21,Private Employee,Yes,Never,Stocks,Yes,Historical Data,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Amit,Male,20,Student,No,Weekly,Mutual Funds,Yes,Charts,Yes,Very Easy,6 Months,Yes,All Features,Very Important,Yes
+Rahul,Male,25,Business,No,Never,Fixed Deposits,Yes,Charts,Yes,Easy,5 Years,Yes,Moving Average,Moderately Important,Yes
+Om,Male,25,Private Employee,Yes,Rarely,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Very Important,Yes
+Pooja,Female,33,Business,No,Never,Cryptocurrency,No,Charts,Yes,Easy,5 Years,Yes,All Features,Important,Yes
+Sahil,Male,26,Student,No,Several times a week,Mutual Funds,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Important,Maybe
+Aditya,Male,35,Government Employee,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Arjun,Male,34,Student,Yes,Rarely,Gold,Yes,Volume,Yes,Easy,5 Years,Maybe,Moving Average,Important,Yes
+Dhruv,Male,31,Student,Yes,Daily,Fixed Deposits,No,Historical Data,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Aarav,Male,28,Private Employee,Yes,Weekly,Gold,Yes,Moving Average,Yes,Moderate,5 Years,Yes,All Features,Moderately Important,Yes
+Arjun,Male,31,Student,No,Never,Mutual Funds,No,Volume,Yes,Easy,6 Months,Maybe,Price Charts,Important,Yes
+Mansi,Female,31,Student,Yes,Never,Stocks,Yes,Volume,Yes,Easy,1 Month,Maybe,Trend Indicator,Important,Yes
+Dhruv,Male,31,Student,Yes,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Maybe
+Sahil,Male,29,Government Employee,Yes,Weekly,Fixed Deposits,Yes,Moving Average,Yes,Very Easy,5 Years,Yes,All Features,Important,No
+Mansi,Female,34,Other,Yes,Several times a week,Fixed Deposits,No,Charts,Maybe,Easy,6 Months,Yes,Trend Indicator,Very Important,Yes
+Sakshi,Female,30,Student,Yes,Never,Gold,Yes,Charts,Yes,Easy,1 Month,No,Moving Average,Very Important,Yes
+Aditya,Male,23,Private Employee,No,Weekly,Fixed Deposits,Yes,Price,No,Easy,6 Months,No,Price Charts,Moderately Important,Yes
+Shubham,Male,21,Private Employee,No,Weekly,Fixed Deposits,Yes,Charts,Yes,Easy,6 Months,Yes,Price Charts,Moderately Important,Yes
+Diya,Female,30,Student,Yes,Several times a week,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Important,Yes
+Aanya,Female,22,Private Employee,Yes,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Yes,All Features,Important,No
+Om,Male,18,Student,No,Weekly,Fixed Deposits,No,Charts,No,Easy,5 Years,Maybe,All Features,Moderately Important,Maybe
+Saurabh,Male,21,Student,No,Rarely,Stocks,No,Price,No,Easy,1 Month,No,Price Charts,Very Important,Yes
+Vivek,Male,23,Student,No,Weekly,Stocks,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Sahil,Male,25,Student,Yes,Never,Gold,Yes,Price,Maybe,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Vaishnavi,Female,31,Student,No,Never,Stocks,Yes,Moving Average,Yes,Very Easy,5 Years,Yes,All Features,Very Important,Yes
+Sneha,Female,33,Business,No,Weekly,Stocks,Yes,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Yes
+Vikas,Male,18,Student,Yes,Rarely,Gold,No,Price,Maybe,Easy,1 Month,Yes,All Features,Important,Yes
+Dhruv,Male,32,Student,Yes,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Maybe
+Dev,Male,22,Student,Yes,Rarely,Fixed Deposits,Yes,Charts,No,Easy,6 Months,Yes,Moving Average,Important,Yes
+Pallavi,Female,34,Student,No,Weekly,Mutual Funds,No,Charts,Yes,Easy,1 Month,Yes,Moving Average,Important,Yes
+Rahul,Male,22,Student,No,Daily,Fixed Deposits,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Moderately Important,Yes
+Shubham,Male,20,Student,No,Weekly,Stocks,No,Moving Average,Yes,Moderate,1 Year,Maybe,Price Charts,Very Important,No
+Dhruv,Male,31,Student,Yes,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Maybe
+Vivek,Male,24,Student,No,Weekly,Stocks,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Dev,Male,27,Student,Yes,Never,Fixed Deposits,No,Charts,Yes,Moderate,1 Year,Yes,Price Charts,Very Important,Maybe
+Rahul,Male,20,Student,No,Weekly,Gold,No,Volume,Yes,Easy,5 Years,Yes,Historical Data,Very Important,Maybe
+Arjun,Male,22,Other,No,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Maybe,All Features,Important,Yes
+Om,Male,34,Business,No,Weekly,Mutual Funds,No,Price,Yes,Very Easy,1 Year,Maybe,Trend Indicator,Moderately Important,Maybe
+Tanvi,Female,25,Student,No,Daily,Stocks,No,Price,Yes,Easy,6 Months,Maybe,All Features,Very Important,Yes
+Simran,Female,31,Student,Yes,Weekly,Fixed Deposits,Yes,Moving Average,Yes,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Kavya,Female,33,Student,No,Never,Mutual Funds,Yes,Historical Data,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Pooja,Female,29,Student,No,Weekly,Stocks,Yes,Charts,Maybe,Very Easy,1 Year,Maybe,Moving Average,Very Important,Yes
+Atharva,Male,30,Student,Yes,Rarely,Mutual Funds,Yes,Charts,Yes,Easy,6 Months,Yes,Trend Indicator,Very Important,No
+Vikas,Male,23,Private Employee,Yes,Rarely,Stocks,No,Charts,Yes,Very Easy,5 Years,Yes,All Features,Very Important,Yes
+Mansi,Female,32,Other,No,Rarely,Cryptocurrency,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Important,No
+Atharva,Male,18,Student,No,Never,Stocks,No,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Maybe
+Atharva,Male,19,Student,No,Never,Stocks,No,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Maybe
+Vaishnavi,Female,33,Student,No,Never,Stocks,Yes,Moving Average,Yes,Very Easy,5 Years,Yes,All Features,Very Important,Yes
+Priya,Female,25,Government Employee,No,Several times a week,Gold,Yes,Moving Average,Maybe,Easy,1 Year,Yes,Trend Indicator,Very Important,Yes
+Aditya,Male,24,Private Employee,Yes,Weekly,Stocks,Yes,Historical Data,Yes,Very Easy,6 Months,Yes,Trend Indicator,Very Important,Yes
+Akash,Male,32,Student,No,Rarely,Gold,Yes,Volume,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Rahul,Male,35,Student,No,Rarely,Mutual Funds,Yes,Volume,Yes,Very Easy,6 Months,Yes,Trend Indicator,Important,Maybe
+Mansi,Female,28,Other,Yes,Rarely,Stocks,Yes,Historical Data,Maybe,Very Easy,1 Year,Maybe,All Features,Important,Yes
+Dhruv,Male,30,Government Employee,Yes,Daily,Fixed Deposits,Yes,Charts,Yes,Very Easy,5 Years,Yes,Price Charts,Important,Yes
+Nikita,Female,24,Private Employee,No,Rarely,Mutual Funds,Yes,Historical Data,Yes,Very Easy,1 Year,Yes,Moving Average,Important,Maybe
+Sneha,Female,33,Business,No,Weekly,Stocks,Yes,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Yes
+Neha,Female,20,Student,No,Rarely,Mutual Funds,Yes,Historical Data,Maybe,Easy,5 Years,Maybe,Historical Data,Important,Yes
+Amit,Male,24,Student,No,Never,Gold,No,Price,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Aarav,Male,30,Business,No,Several times a week,Stocks,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Moderately Important,Yes
+Mansi,Female,28,Other,Yes,Rarely,Stocks,Yes,Historical Data,Maybe,Very Easy,1 Year,Maybe,All Features,Important,Yes
+Vivek,Male,25,Student,No,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Maybe,All Features,Important,Maybe
+Amit,Male,23,Business,Yes,Rarely,Stocks,No,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Yes
+Shubham,Male,23,Student,Yes,Rarely,Gold,No,Price,Yes,Very Easy,6 Months,Maybe,Price Charts,Important,Yes
+Simran,Female,31,Student,Yes,Weekly,Fixed Deposits,Yes,Moving Average,Yes,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Aniket,Male,34,Government Employee,Yes,Rarely,Stocks,Yes,Price,Yes,Easy,1 Month,Maybe,Moving Average,Very Important,Yes
+Akash,Male,35,Private Employee,No,Several times a week,Stocks,Yes,Moving Average,Yes,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Om,Male,27,Private Employee,Yes,Never,Stocks,Yes,Price,Maybe,Easy,6 Months,Yes,Moving Average,Important,Yes
+Dhruv,Male,31,Student,Yes,Daily,Fixed Deposits,No,Historical Data,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Saurabh,Male,20,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,6 Months,Yes,Trend Indicator,Important,Maybe
+Atharva,Male,26,Business,Yes,Rarely,Mutual Funds,Yes,Charts,Yes,Moderate,1 Year,Yes,All Features,Very Important,Yes
+Sakshi,Female,20,Student,No,Weekly,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Arjun,Male,32,Student,No,Never,Mutual Funds,No,Volume,Yes,Easy,6 Months,Maybe,Price Charts,Important,Yes
+Aniket,Male,34,Government Employee,Yes,Rarely,Stocks,Yes,Price,Yes,Easy,1 Month,Maybe,Moving Average,Very Important,Yes
+Aniket,Male,32,Private Employee,No,Several times a week,Fixed Deposits,No,Charts,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Shruti,Female,33,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Very Easy,5 Years,Yes,Trend Indicator,Very Important,Maybe
+Dhruv,Male,29,Student,Yes,Daily,Fixed Deposits,No,Historical Data,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Shubham,Male,30,Student,No,Rarely,Gold,No,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Important,Yes
+Yash,Male,23,Private Employee,Yes,Rarely,Mutual Funds,Yes,Price,Maybe,Easy,1 Year,Yes,All Features,Moderately Important,Yes
+Aditya,Male,18,Government Employee,Yes,Several times a week,Stocks,No,Historical Data,Yes,Moderate,1 Year,Yes,Historical Data,Very Important,Yes
+Aarav,Male,32,Private Employee,No,Rarely,Stocks,Yes,Price,Yes,Easy,5 Years,Maybe,All Features,Very Important,Yes
+Om,Male,19,Student,No,Weekly,Fixed Deposits,No,Charts,No,Easy,5 Years,Maybe,All Features,Moderately Important,Maybe
+Ankita,Female,25,Private Employee,No,Rarely,Cryptocurrency,No,Historical Data,Yes,Moderate,1 Month,Maybe,Moving Average,Moderately Important,No
+Dhruv,Male,33,Student,Yes,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Maybe
+Sanket,Male,24,Student,Yes,Rarely,Fixed Deposits,Yes,Moving Average,Yes,Very Easy,6 Months,Yes,Historical Data,Important,Yes
+Nikita,Female,19,Business,Yes,Never,Mutual Funds,Yes,Volume,Yes,Easy,1 Year,No,Historical Data,Important,Yes
+Aditya,Male,24,Private Employee,No,Weekly,Fixed Deposits,Yes,Price,No,Easy,6 Months,No,Price Charts,Moderately Important,Yes
+Sneha,Female,28,Private Employee,No,Never,Mutual Funds,Yes,Charts,Yes,Very Easy,1 Year,No,All Features,Very Important,Yes
+Ankita,Female,25,Private Employee,No,Rarely,Cryptocurrency,No,Historical Data,Yes,Moderate,1 Month,Maybe,Moving Average,Moderately Important,No
+Sahil,Male,25,Student,No,Several times a week,Mutual Funds,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Important,Maybe
+Komal,Female,24,Private Employee,No,Weekly,Stocks,No,Historical Data,Yes,Easy,5 Years,Yes,All Features,Important,Yes
+Sakshi,Female,20,Student,No,Weekly,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Kavya,Female,28,Business,No,Rarely,Mutual Funds,Yes,Charts,Maybe,Easy,1 Year,Yes,Historical Data,Important,Yes
+Saurabh,Male,34,Government Employee,Yes,Rarely,Stocks,Yes,Historical Data,Maybe,Moderate,6 Months,Yes,Trend Indicator,Important,Yes
+Ankita,Female,34,Private Employee,Yes,Weekly,Mutual Funds,Yes,Volume,No,Moderate,1 Year,Maybe,Price Charts,Very Important,Maybe
+Anjali,Female,19,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Easy,5 Years,Maybe,Trend Indicator,Very Important,Yes
+Dev,Male,35,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,1 Year,Yes,Trend Indicator,Important,No
+Sakshi,Female,28,Student,Yes,Never,Gold,Yes,Charts,Yes,Easy,1 Month,No,Moving Average,Very Important,Yes
+Vivek,Male,30,Private Employee,Yes,Daily,Stocks,Yes,Price,Yes,Very Easy,6 Months,Yes,Moving Average,Moderately Important,Maybe
+Mansi,Female,30,Student,No,Never,Fixed Deposits,Yes,Charts,Yes,Moderate,1 Year,Yes,Trend Indicator,Important,Yes
+Yash,Male,18,Student,Yes,Weekly,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Historical Data,Important,Yes
+Amit,Male,23,Business,Yes,Rarely,Stocks,No,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Yes
+Sahil,Male,25,Student,No,Several times a week,Mutual Funds,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Important,Maybe
+Om,Male,18,Student,No,Weekly,Fixed Deposits,No,Charts,No,Easy,5 Years,Maybe,All Features,Moderately Important,Maybe
+Karan,Male,28,Government Employee,Yes,Weekly,Stocks,Yes,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Moderately Important,Yes
+Arjun,Male,23,Student,Yes,Rarely,Mutual Funds,No,Charts,Maybe,Moderate,1 Year,Yes,Moving Average,Important,Yes
+Dev,Male,26,Student,Yes,Never,Fixed Deposits,No,Charts,Yes,Moderate,1 Year,Yes,Price Charts,Very Important,Maybe
+Simran,Female,24,Business,Yes,Daily,Stocks,Yes,Charts,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Aditya,Male,31,Government Employee,No,Rarely,Stocks,No,Charts,Yes,Very Easy,6 Months,Maybe,Moving Average,Moderately Important,Yes
+Vikas,Male,26,Business,No,Weekly,Stocks,No,Historical Data,Yes,Very Easy,1 Month,Yes,All Features,Important,Maybe
+Dhruv,Male,29,Student,Yes,Daily,Fixed Deposits,No,Historical Data,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Shruti,Female,31,Student,No,Weekly,Gold,Yes,Moving Average,Yes,Very Easy,1 Year,Yes,All Features,Very Important,Yes
+Aarav,Male,28,Private Employee,Yes,Weekly,Gold,Yes,Moving Average,Yes,Moderate,5 Years,Yes,All Features,Moderately Important,Yes
+Nikita,Female,18,Government Employee,Yes,Rarely,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Aditya,Male,19,Private Employee,Yes,Never,Gold,Yes,Price,Maybe,Easy,5 Years,Maybe,Moving Average,Very Important,Yes
+Vivek,Male,27,Private Employee,No,Rarely,Gold,No,Charts,Yes,Moderate,6 Months,Yes,All Features,Very Important,Maybe
+Pallavi,Female,32,Student,No,Weekly,Mutual Funds,No,Charts,Yes,Easy,1 Month,Yes,Moving Average,Important,Yes
+Dhruv,Male,27,Private Employee,No,Weekly,Mutual Funds,Yes,Price,Yes,Easy,1 Year,Yes,All Features,Important,No
+Akash,Male,18,Business,No,Rarely,Stocks,Yes,Volume,Maybe,Very Easy,1 Year,Yes,Historical Data,Important,No
+Nikita,Female,21,Private Employee,Yes,Weekly,Cryptocurrency,No,Historical Data,Yes,Moderate,5 Years,Maybe,Trend Indicator,Very Important,Maybe
+Atharva,Male,22,Business,Yes,Rarely,Mutual Funds,No,Charts,Yes,Moderate,5 Years,Yes,Trend Indicator,Important,Maybe
+Aanya,Female,22,Student,No,Rarely,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Mansi,Female,31,Other,No,Rarely,Cryptocurrency,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Important,No
+Dev,Male,35,Student,No,Daily,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Very Important,Yes
+Sahil,Male,25,Student,Yes,Never,Gold,Yes,Price,Maybe,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Arjun,Male,22,Other,No,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Maybe,All Features,Important,Yes
+Shruti,Female,34,Private Employee,Yes,Never,Cryptocurrency,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Very Important,Yes
+Nikita,Female,22,Student,Yes,Never,Fixed Deposits,No,Charts,Yes,Very Easy,1 Year,No,Price Charts,Important,Yes
+Dhruv,Male,22,Private Employee,No,Never,Mutual Funds,No,Volume,Maybe,Easy,5 Years,Yes,Price Charts,Important,Yes
+Saurabh,Male,22,Student,No,Rarely,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Moving Average,Very Important,Yes
+Saurabh,Male,34,Government Employee,Yes,Rarely,Stocks,Yes,Historical Data,Maybe,Moderate,6 Months,Yes,Trend Indicator,Important,Yes
+Aditya,Male,19,Government Employee,Yes,Several times a week,Stocks,No,Historical Data,Yes,Moderate,1 Year,Yes,Historical Data,Very Important,Yes
+Anjali,Female,20,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Easy,5 Years,Maybe,Trend Indicator,Very Important,Yes
+Atharva,Male,32,Student,Yes,Rarely,Mutual Funds,Yes,Charts,Yes,Easy,6 Months,Yes,Trend Indicator,Very Important,No
+Aarav,Male,28,Private Employee,Yes,Weekly,Gold,Yes,Moving Average,Yes,Moderate,5 Years,Yes,All Features,Moderately Important,Yes
+Priya,Female,29,Private Employee,No,Several times a week,Fixed Deposits,No,Price,Maybe,Very Easy,5 Years,Maybe,All Features,Important,Yes
+Ankita,Female,26,Student,No,Daily,Fixed Deposits,No,Historical Data,Yes,Moderate,6 Months,Yes,Moving Average,Important,Yes
+Vaishnavi,Female,35,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Ankita,Female,30,Government Employee,Yes,Several times a week,Gold,Yes,Charts,Yes,Very Easy,5 Years,Yes,Moving Average,Moderately Important,Yes
+Diya,Female,28,Student,Yes,Several times a week,Mutual Funds,Yes,Moving Average,Maybe,Easy,6 Months,Maybe,Price Charts,Important,Maybe
+Sneha,Female,28,Private Employee,No,Never,Mutual Funds,Yes,Charts,Yes,Very Easy,1 Year,No,All Features,Very Important,Yes
+Sneha,Female,27,Private Employee,No,Never,Mutual Funds,Yes,Charts,Yes,Very Easy,1 Year,No,All Features,Very Important,Yes
+Anjali,Female,21,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Easy,5 Years,Maybe,Trend Indicator,Very Important,Yes
+Vivek,Male,26,Student,No,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Maybe,All Features,Important,Maybe
+Dev,Male,32,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Aditya,Male,32,Government Employee,No,Rarely,Stocks,No,Charts,Yes,Very Easy,6 Months,Maybe,Moving Average,Moderately Important,Yes
+Aarav,Male,24,Business,Yes,Several times a week,Fixed Deposits,Yes,Price,Maybe,Easy,5 Years,Yes,Moving Average,Very Important,Yes
+Karan,Male,32,Private Employee,No,Weekly,Mutual Funds,No,Price,Yes,Easy,1 Year,Yes,Trend Indicator,Moderately Important,Maybe
+Aditya,Male,22,Private Employee,No,Weekly,Fixed Deposits,Yes,Price,No,Easy,6 Months,No,Price Charts,Moderately Important,Yes
+Shubham,Male,30,Student,No,Rarely,Gold,No,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Important,Yes
+Rohan,Male,26,Private Employee,Yes,Never,Stocks,Yes,Charts,Yes,Moderate,1 Month,No,Moving Average,Important,Yes
+Mansi,Female,32,Other,No,Rarely,Cryptocurrency,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Important,No
+Nikita,Female,22,Private Employee,Yes,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Vivek,Male,26,Private Employee,No,Rarely,Gold,No,Charts,Yes,Moderate,6 Months,Yes,All Features,Very Important,Maybe
+Karan,Male,25,Business,No,Weekly,Gold,Yes,Moving Average,Yes,Easy,6 Months,Yes,Price Charts,Important,Yes
+Vaishnavi,Female,25,Student,No,Rarely,Gold,Yes,Moving Average,Yes,Moderate,5 Years,Yes,Historical Data,Moderately Important,Yes
+Shubham,Male,21,Student,No,Weekly,Gold,Yes,Moving Average,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Mansi,Female,23,Private Employee,No,Several times a week,Gold,No,Charts,Yes,Easy,1 Year,No,All Features,Important,Yes
+Om,Male,26,Private Employee,Yes,Never,Stocks,Yes,Price,Maybe,Easy,6 Months,Yes,Moving Average,Important,Yes
+Pooja,Female,31,Student,No,Weekly,Stocks,Yes,Charts,Maybe,Very Easy,1 Year,Maybe,Moving Average,Very Important,Yes
+Yash,Male,22,Private Employee,Yes,Rarely,Mutual Funds,Yes,Price,Maybe,Easy,1 Year,Yes,All Features,Moderately Important,Yes
+Vaishnavi,Female,25,Private Employee,Yes,Weekly,Cryptocurrency,Yes,Charts,Maybe,Easy,5 Years,Yes,Price Charts,Very Important,Yes
+Dev,Male,26,Student,Yes,Weekly,Fixed Deposits,No,Historical Data,Yes,Easy,6 Months,No,Trend Indicator,Important,Maybe
+Dhruv,Male,30,Student,Yes,Daily,Fixed Deposits,No,Historical Data,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Amit,Male,20,Business,Yes,Several times a week,Stocks,No,Charts,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Neha,Female,21,Student,Yes,Weekly,Stocks,Yes,Historical Data,Yes,Easy,1 Month,Yes,All Features,Important,No
+Aanya,Female,33,Private Employee,No,Never,Stocks,Yes,Volume,Yes,Easy,6 Months,Yes,Price Charts,Moderately Important,Yes
+Dev,Male,34,Student,No,Daily,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Very Important,Yes
+Aditya,Male,18,Private Employee,Yes,Never,Gold,Yes,Price,Maybe,Easy,5 Years,Maybe,Moving Average,Very Important,Yes
+Kavya,Female,27,Business,No,Rarely,Mutual Funds,Yes,Charts,Maybe,Easy,1 Year,Yes,Historical Data,Important,Yes
+Saurabh,Male,18,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,6 Months,Yes,Trend Indicator,Important,Maybe
+Aanya,Female,35,Student,Yes,Rarely,Gold,Yes,Historical Data,Yes,Easy,1 Year,No,Moving Average,Very Important,Yes
+Simran,Female,32,Student,Yes,Weekly,Fixed Deposits,Yes,Moving Average,Yes,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Neha,Female,21,Student,No,Rarely,Mutual Funds,Yes,Historical Data,Maybe,Easy,5 Years,Maybe,Historical Data,Important,Yes
+Shubham,Male,20,Student,No,Weekly,Stocks,No,Moving Average,Yes,Moderate,1 Year,Maybe,Price Charts,Very Important,No
+Vaishnavi,Female,26,Student,No,Weekly,Fixed Deposits,No,Moving Average,Maybe,Easy,1 Year,Yes,Historical Data,Very Important,Yes
+Ankita,Female,25,Student,No,Daily,Fixed Deposits,No,Historical Data,Yes,Moderate,6 Months,Yes,Moving Average,Important,Yes
+Aditya,Male,32,Student,No,Never,Mutual Funds,No,Moving Average,Maybe,Easy,1 Year,Yes,Price Charts,Important,Yes
+Nikita,Female,24,Student,Yes,Never,Fixed Deposits,No,Charts,Yes,Very Easy,1 Year,No,Price Charts,Important,Yes
+Sneha,Female,26,Private Employee,No,Never,Mutual Funds,Yes,Charts,Yes,Very Easy,1 Year,No,All Features,Very Important,Yes
+Dev,Male,34,Student,Yes,Rarely,Gold,No,Price,Maybe,Easy,1 Month,Yes,Historical Data,Important,Yes
+Vikas,Male,23,Private Employee,No,Rarely,Cryptocurrency,No,Price,Yes,Easy,6 Months,Yes,All Features,Important,Yes
+Akash,Male,34,Private Employee,No,Several times a week,Stocks,Yes,Moving Average,Yes,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Ankita,Female,24,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Tanvi,Female,29,Government Employee,No,Weekly,Fixed Deposits,Yes,Moving Average,Yes,Easy,5 Years,Maybe,All Features,Important,Yes
+Vivek,Male,31,Private Employee,Yes,Daily,Stocks,Yes,Price,Yes,Very Easy,6 Months,Yes,Moving Average,Moderately Important,Maybe
+Karan,Male,29,Government Employee,Yes,Weekly,Stocks,Yes,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Moderately Important,Yes
+Vivek,Male,22,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Tanvi,Female,23,Private Employee,No,Weekly,Gold,Yes,Moving Average,Maybe,Very Easy,1 Month,Yes,Trend Indicator,Very Important,Yes
+Sneha,Female,27,Private Employee,No,Never,Mutual Funds,Yes,Charts,Yes,Very Easy,1 Year,No,All Features,Very Important,Yes
+Karan,Male,31,Private Employee,No,Weekly,Stocks,Yes,Price,Yes,Moderate,5 Years,Maybe,All Features,Important,Yes
+Priya,Female,31,Private Employee,Yes,Never,Mutual Funds,Yes,Price,Yes,Easy,1 Year,No,All Features,Important,Yes
+Aarav,Male,18,Private Employee,Yes,Never,Mutual Funds,No,Historical Data,No,Easy,1 Year,Yes,All Features,Moderately Important,Yes
+Aanya,Female,28,Private Employee,Yes,Weekly,Fixed Deposits,No,Price,Yes,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Nikita,Female,33,Business,No,Never,Mutual Funds,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Dev,Male,30,Business,Yes,Several times a week,Cryptocurrency,Yes,Charts,No,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Sneha,Female,33,Business,No,Weekly,Stocks,Yes,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Yes
+Om,Male,30,Business,No,Weekly,Fixed Deposits,Yes,Moving Average,Maybe,Easy,1 Month,No,All Features,Very Important,Yes
+Akash,Male,34,Private Employee,No,Several times a week,Stocks,Yes,Moving Average,Yes,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Tanvi,Female,24,Private Employee,No,Weekly,Gold,Yes,Moving Average,Maybe,Very Easy,1 Month,Yes,Trend Indicator,Very Important,Yes
+Vaishnavi,Female,32,Student,Yes,Several times a week,Gold,No,Price,Yes,Very Easy,1 Year,Yes,All Features,Very Important,Yes
+Diya,Female,30,Student,Yes,Several times a week,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Important,Yes
+Mansi,Female,27,Other,Yes,Rarely,Stocks,Yes,Historical Data,Maybe,Very Easy,1 Year,Maybe,All Features,Important,Yes
+Aditya,Male,19,Government Employee,Yes,Several times a week,Stocks,No,Historical Data,Yes,Moderate,1 Year,Yes,Historical Data,Very Important,Yes
+Saurabh,Male,30,Student,Yes,Daily,Mutual Funds,Yes,Price,No,Easy,6 Months,Maybe,Trend Indicator,Important,Maybe
+Tanvi,Female,23,Student,No,Daily,Stocks,No,Price,Yes,Easy,6 Months,Maybe,All Features,Very Important,Yes
+Arjun,Male,31,Student,No,Never,Mutual Funds,No,Volume,Yes,Easy,6 Months,Maybe,Price Charts,Important,Yes
+Rahul,Male,21,Student,No,Daily,Fixed Deposits,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Moderately Important,Yes
+Tanvi,Female,31,Private Employee,No,Weekly,Mutual Funds,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Important,Maybe
+Sanket,Male,32,Student,No,Weekly,Stocks,No,Moving Average,Yes,Easy,6 Months,Yes,Price Charts,Very Important,Yes
+Dev,Male,35,Student,No,Daily,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Very Important,Yes
+Rahul,Male,32,Private Employee,Yes,Rarely,Mutual Funds,No,Moving Average,Maybe,Very Easy,1 Year,Yes,Price Charts,Moderately Important,No
+Anjali,Female,21,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Easy,5 Years,Maybe,Trend Indicator,Very Important,Yes
+Rohan,Male,24,Business,Yes,Rarely,Gold,Yes,Volume,Maybe,Easy,1 Month,Yes,Price Charts,Important,Yes
+Dev,Male,24,Student,Yes,Several times a week,Stocks,No,Charts,Maybe,Moderate,6 Months,No,Moving Average,Very Important,Yes
+Saurabh,Male,29,Student,Yes,Daily,Mutual Funds,Yes,Price,No,Easy,6 Months,Maybe,Trend Indicator,Important,Maybe
+Dev,Male,27,Student,Yes,Weekly,Fixed Deposits,No,Historical Data,Yes,Easy,6 Months,No,Trend Indicator,Important,Maybe
+Vaishnavi,Female,25,Private Employee,Yes,Weekly,Cryptocurrency,Yes,Charts,Maybe,Easy,5 Years,Yes,Price Charts,Very Important,Yes
+Vaishnavi,Female,34,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Dhruv,Male,28,Government Employee,Yes,Daily,Fixed Deposits,Yes,Charts,Yes,Very Easy,5 Years,Yes,Price Charts,Important,Yes
+Dev,Male,35,Student,No,Daily,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Very Important,Yes
+Dev,Male,26,Student,Yes,Never,Fixed Deposits,No,Charts,Yes,Moderate,1 Year,Yes,Price Charts,Very Important,Maybe
+Tanvi,Female,26,Student,Yes,Never,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Moving Average,Very Important,Yes
+Simran,Female,22,Business,Yes,Daily,Stocks,Yes,Charts,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Saurabh,Male,18,Student,No,Weekly,Mutual Funds,No,Moving Average,Yes,Easy,6 Months,Yes,All Features,Very Important,Maybe
+Vivek,Male,24,Student,No,Weekly,Stocks,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Rohan,Male,27,Private Employee,Yes,Never,Stocks,Yes,Charts,Yes,Moderate,1 Month,No,Moving Average,Important,Yes
+Tanvi,Female,30,Government Employee,No,Weekly,Fixed Deposits,Yes,Moving Average,Yes,Easy,5 Years,Maybe,All Features,Important,Yes
+Saurabh,Male,25,Student,No,Rarely,Stocks,Yes,Moving Average,Yes,Easy,5 Years,Yes,Moving Average,Very Important,Yes
+Saurabh,Male,30,Student,Yes,Daily,Mutual Funds,Yes,Price,No,Easy,6 Months,Maybe,Trend Indicator,Important,Maybe
+Saurabh,Male,19,Student,No,Weekly,Mutual Funds,No,Moving Average,Yes,Easy,6 Months,Yes,All Features,Very Important,Maybe
+Aarav,Male,18,Private Employee,Yes,Never,Mutual Funds,No,Historical Data,No,Easy,1 Year,Yes,All Features,Moderately Important,Yes
+Dev,Male,32,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Shubham,Male,26,Government Employee,No,Weekly,Mutual Funds,No,Moving Average,Yes,Easy,1 Year,Yes,All Features,Very Important,Maybe
+Neha,Female,20,Student,No,Rarely,Mutual Funds,Yes,Historical Data,Maybe,Easy,5 Years,Maybe,Historical Data,Important,Yes
+Priya,Female,29,Private Employee,No,Several times a week,Fixed Deposits,No,Price,Maybe,Very Easy,5 Years,Maybe,All Features,Important,Yes
+Aanya,Female,28,Private Employee,Yes,Weekly,Fixed Deposits,No,Price,Yes,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Priya,Female,31,Private Employee,Yes,Never,Mutual Funds,Yes,Price,Yes,Easy,1 Year,No,All Features,Important,Yes
+Saurabh,Male,29,Student,Yes,Daily,Mutual Funds,Yes,Price,No,Easy,6 Months,Maybe,Trend Indicator,Important,Maybe
+Amit,Male,24,Student,No,Never,Gold,No,Price,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Vaishnavi,Female,32,Student,Yes,Several times a week,Gold,No,Price,Yes,Very Easy,1 Year,Yes,All Features,Very Important,Yes
+Sakshi,Female,20,Student,No,Weekly,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Komal,Female,24,Student,No,Several times a week,Stocks,No,Price,Yes,Easy,6 Months,Yes,Trend Indicator,Very Important,Maybe
+Shubham,Male,21,Student,No,Never,Mutual Funds,No,Charts,No,Very Easy,6 Months,Maybe,All Features,Important,Yes
+Dhruv,Male,31,Student,Yes,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Maybe
+Aarav,Male,30,Private Employee,No,Rarely,Stocks,Yes,Price,Yes,Easy,5 Years,Maybe,All Features,Very Important,Yes
+Aditya,Male,35,Government Employee,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Nikita,Female,18,Government Employee,Yes,Rarely,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Vivek,Male,23,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Dev,Male,28,Business,No,Never,Fixed Deposits,Yes,Price,Yes,Easy,1 Year,Yes,Moving Average,Important,Yes
+Shubham,Male,21,Private Employee,No,Weekly,Fixed Deposits,Yes,Charts,Yes,Easy,6 Months,Yes,Price Charts,Moderately Important,Yes
+Saurabh,Male,19,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,6 Months,Yes,Trend Indicator,Important,Maybe
+Vivek,Male,23,Student,No,Weekly,Stocks,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Om,Male,19,Student,No,Weekly,Fixed Deposits,No,Charts,No,Easy,5 Years,Maybe,All Features,Moderately Important,Maybe
+Diya,Female,30,Student,Yes,Several times a week,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Important,Yes
+Rahul,Male,34,Private Employee,Yes,Rarely,Mutual Funds,No,Moving Average,Maybe,Very Easy,1 Year,Yes,Price Charts,Moderately Important,No
+Pallavi,Female,30,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Easy,1 Year,No,Moving Average,Important,Maybe
+Rohan,Male,27,Private Employee,Yes,Never,Stocks,Yes,Charts,Yes,Moderate,1 Month,No,Moving Average,Important,Yes
+Kavya,Female,35,Student,No,Rarely,Fixed Deposits,Yes,Charts,Yes,Very Easy,5 Years,Yes,Price Charts,Moderately Important,No
+Ankita,Female,25,Private Employee,No,Rarely,Cryptocurrency,No,Historical Data,Yes,Moderate,1 Month,Maybe,Moving Average,Moderately Important,No
+Aanya,Female,20,Student,No,Rarely,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Om,Male,18,Student,No,Weekly,Fixed Deposits,No,Charts,No,Easy,5 Years,Maybe,All Features,Moderately Important,Maybe
+Neha,Female,22,Student,Yes,Weekly,Stocks,Yes,Historical Data,Yes,Easy,1 Month,Yes,All Features,Important,No
+Pooja,Female,32,Private Employee,Yes,Never,Cryptocurrency,No,Volume,No,Moderate,1 Year,Yes,Trend Indicator,Important,Maybe
+Arjun,Male,22,Student,Yes,Rarely,Mutual Funds,No,Charts,Maybe,Moderate,1 Year,Yes,Moving Average,Important,Yes
+Om,Male,23,Private Employee,Yes,Rarely,Mutual Funds,No,Moving Average,Yes,Easy,1 Year,Yes,Trend Indicator,Moderately Important,Maybe
+Dev,Male,24,Student,Yes,Several times a week,Stocks,No,Charts,Maybe,Moderate,6 Months,No,Moving Average,Very Important,Yes
+Sanket,Male,25,Private Employee,Yes,Rarely,Mutual Funds,Yes,Historical Data,No,Easy,1 Year,Yes,Moving Average,Moderately Important,Yes
+Kavya,Female,34,Student,No,Rarely,Fixed Deposits,Yes,Charts,Yes,Very Easy,5 Years,Yes,Price Charts,Moderately Important,No
+Shruti,Female,31,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Very Easy,5 Years,Yes,Trend Indicator,Very Important,Maybe
+Aniket,Male,35,Government Employee,Yes,Rarely,Stocks,Yes,Price,Yes,Easy,1 Month,Maybe,Moving Average,Very Important,Yes
+Yash,Male,19,Student,Yes,Weekly,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Historical Data,Important,Yes
+Aarav,Male,31,Business,No,Several times a week,Stocks,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Moderately Important,Yes
+Aarav,Male,26,Government Employee,Yes,Weekly,Gold,No,Charts,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Vikas,Male,24,Private Employee,No,Rarely,Cryptocurrency,No,Price,Yes,Easy,6 Months,Yes,All Features,Important,Yes
+Mansi,Female,31,Other,No,Rarely,Cryptocurrency,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Important,No
+Arjun,Male,32,Student,No,Never,Mutual Funds,No,Volume,Yes,Easy,6 Months,Maybe,Price Charts,Important,Yes
+Sanket,Male,34,Student,No,Weekly,Stocks,No,Moving Average,Yes,Easy,6 Months,Yes,Price Charts,Very Important,Yes
+Vikas,Male,24,Private Employee,No,Rarely,Cryptocurrency,No,Price,Yes,Easy,6 Months,Yes,All Features,Important,Yes
+Pallavi,Female,21,Private Employee,No,Never,Stocks,Yes,Price,Yes,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Arjun,Male,22,Other,No,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Maybe,All Features,Important,Yes
+Akash,Male,32,Student,No,Daily,Mutual Funds,Yes,Price,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Pallavi,Female,33,Student,No,Weekly,Mutual Funds,No,Charts,Yes,Easy,1 Month,Yes,Moving Average,Important,Yes
+Mansi,Female,22,Private Employee,No,Several times a week,Gold,No,Charts,Yes,Easy,1 Year,No,All Features,Important,Yes
+Sneha,Female,26,Private Employee,No,Never,Mutual Funds,Yes,Charts,Yes,Very Easy,1 Year,No,All Features,Very Important,Yes
+Kavya,Female,26,Business,No,Rarely,Mutual Funds,Yes,Charts,Maybe,Easy,1 Year,Yes,Historical Data,Important,Yes
+Shubham,Male,21,Private Employee,Yes,Never,Stocks,Yes,Historical Data,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Komal,Female,24,Student,No,Rarely,Gold,Yes,Charts,Yes,Moderate,6 Months,Yes,Price Charts,Important,Yes
+Vaishnavi,Female,28,Student,No,Weekly,Fixed Deposits,No,Moving Average,Maybe,Easy,1 Year,Yes,Historical Data,Very Important,Yes
+Om,Male,25,Private Employee,Yes,Rarely,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Very Important,Yes
+Vaishnavi,Female,31,Student,No,Never,Stocks,Yes,Moving Average,Yes,Very Easy,5 Years,Yes,All Features,Very Important,Yes
+Om,Male,26,Private Employee,Yes,Rarely,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Very Important,Yes
+Shubham,Male,27,Government Employee,No,Weekly,Mutual Funds,No,Moving Average,Yes,Easy,1 Year,Yes,All Features,Very Important,Maybe
+Rohan,Male,27,Private Employee,Yes,Never,Stocks,Yes,Charts,Yes,Moderate,1 Month,No,Moving Average,Important,Yes
+Nikita,Female,18,Government Employee,Yes,Rarely,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Mansi,Female,28,Other,Yes,Rarely,Stocks,Yes,Historical Data,Maybe,Very Easy,1 Year,Maybe,All Features,Important,Yes
+Shubham,Male,31,Business,No,Never,Stocks,No,Price,Maybe,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Yes
+Dhruv,Male,29,Student,Yes,Daily,Fixed Deposits,No,Historical Data,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Akash,Male,18,Business,No,Rarely,Stocks,Yes,Volume,Maybe,Very Easy,1 Year,Yes,Historical Data,Important,No
+Aanya,Female,27,Private Employee,Yes,Weekly,Fixed Deposits,No,Price,Yes,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Nikita,Female,18,Government Employee,Yes,Rarely,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Dev,Male,35,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,1 Year,Yes,Trend Indicator,Important,No
+Vaishnavi,Female,35,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Atharva,Male,26,Business,Yes,Rarely,Mutual Funds,Yes,Charts,Yes,Moderate,1 Year,Yes,All Features,Very Important,Yes
+Kavya,Female,35,Student,No,Rarely,Fixed Deposits,Yes,Charts,Yes,Very Easy,5 Years,Yes,Price Charts,Moderately Important,No
+Amit,Male,19,Student,No,Weekly,Mutual Funds,Yes,Charts,Yes,Very Easy,6 Months,Yes,All Features,Very Important,Yes
+Dev,Male,35,Student,Yes,Rarely,Gold,No,Price,Maybe,Easy,1 Month,Yes,Historical Data,Important,Yes
+Aditya,Male,18,Private Employee,Yes,Never,Gold,Yes,Price,Maybe,Easy,5 Years,Maybe,Moving Average,Very Important,Yes
+Tanvi,Female,30,Government Employee,No,Weekly,Fixed Deposits,Yes,Moving Average,Yes,Easy,5 Years,Maybe,All Features,Important,Yes
+Dhruv,Male,29,Student,Yes,Daily,Fixed Deposits,No,Historical Data,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Akash,Male,32,Student,No,Daily,Mutual Funds,Yes,Price,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Priya,Female,25,Government Employee,No,Several times a week,Gold,Yes,Moving Average,Maybe,Easy,1 Year,Yes,Trend Indicator,Very Important,Yes
+Amit,Male,22,Business,Yes,Rarely,Stocks,No,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Yes
+Amit,Male,20,Student,No,Weekly,Mutual Funds,Yes,Charts,Yes,Very Easy,6 Months,Yes,All Features,Very Important,Yes
+Ankita,Female,23,Student,No,Weekly,Stocks,Yes,Price,Yes,Easy,1 Year,Yes,All Features,Very Important,Yes
+Aditya,Male,34,Government Employee,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Arjun,Male,34,Student,Yes,Rarely,Gold,Yes,Volume,Yes,Easy,5 Years,Maybe,Moving Average,Important,Yes
+Anjali,Female,19,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Easy,5 Years,Maybe,Trend Indicator,Very Important,Yes
+Sanket,Male,25,Private Employee,Yes,Rarely,Mutual Funds,Yes,Historical Data,No,Easy,1 Year,Yes,Moving Average,Moderately Important,Yes
+Rahul,Male,20,Student,No,Weekly,Gold,No,Volume,Yes,Easy,5 Years,Yes,Historical Data,Very Important,Maybe
+Aditya,Male,31,Student,No,Never,Mutual Funds,No,Moving Average,Maybe,Easy,1 Year,Yes,Price Charts,Important,Yes
+Shubham,Male,30,Business,No,Never,Stocks,No,Price,Maybe,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Yes
+Saurabh,Male,18,Student,No,Weekly,Mutual Funds,No,Moving Average,Yes,Easy,6 Months,Yes,All Features,Very Important,Maybe
+Vivek,Male,23,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Diya,Female,28,Student,Yes,Several times a week,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Important,Yes
+Neha,Female,20,Student,No,Rarely,Mutual Funds,Yes,Historical Data,Maybe,Easy,5 Years,Maybe,Historical Data,Important,Yes
+Tanvi,Female,31,Private Employee,No,Weekly,Mutual Funds,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Important,Maybe
+Om,Male,18,Other,Yes,Weekly,Stocks,Yes,Charts,Yes,Very Easy,6 Months,Yes,Price Charts,Important,Yes
+Shubham,Male,27,Student,Yes,Daily,Fixed Deposits,Yes,Price,Yes,Easy,5 Years,Yes,All Features,Very Important,Yes
+Akash,Male,32,Student,No,Rarely,Gold,Yes,Volume,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Dhruv,Male,33,Student,Yes,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Maybe
+Aanya,Female,32,Private Employee,No,Never,Stocks,Yes,Volume,Yes,Easy,6 Months,Yes,Price Charts,Moderately Important,Yes
+Sanket,Male,34,Other,No,Rarely,Stocks,No,Moving Average,Yes,Very Easy,6 Months,Maybe,Historical Data,Moderately Important,Yes
+Rahul,Male,35,Student,No,Rarely,Mutual Funds,Yes,Volume,Yes,Very Easy,6 Months,Yes,Trend Indicator,Important,Maybe
+Dev,Male,34,Student,No,Daily,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Very Important,Yes
+Akash,Male,35,Private Employee,No,Several times a week,Stocks,Yes,Moving Average,Yes,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Saurabh,Male,29,Student,Yes,Daily,Mutual Funds,Yes,Price,No,Easy,6 Months,Maybe,Trend Indicator,Important,Maybe
+Dhruv,Male,31,Student,Yes,Daily,Fixed Deposits,No,Historical Data,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Vivek,Male,23,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Very Easy,1 Year,Yes,Price Charts,Very Important,Yes
+Nikita,Female,19,Business,Yes,Never,Mutual Funds,Yes,Volume,Yes,Easy,1 Year,No,Historical Data,Important,Yes
+Dev,Male,31,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Om,Male,22,Private Employee,No,Several times a week,Stocks,No,Moving Average,Maybe,Easy,6 Months,No,All Features,Very Important,Yes
+Nikita,Female,21,Private Employee,Yes,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Dev,Male,34,Student,No,Never,Fixed Deposits,Yes,Historical Data,Yes,Easy,1 Year,Yes,Trend Indicator,Important,No
+Dev,Male,35,Student,No,Daily,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Very Important,Yes
+Dhruv,Male,28,Private Employee,No,Weekly,Mutual Funds,Yes,Price,Yes,Easy,1 Year,Yes,All Features,Important,No
+Simran,Female,23,Business,Yes,Daily,Stocks,Yes,Charts,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Pooja,Female,29,Student,No,Weekly,Stocks,Yes,Charts,Maybe,Very Easy,1 Year,Maybe,Moving Average,Very Important,Yes
+Aniket,Male,32,Private Employee,No,Several times a week,Fixed Deposits,No,Charts,Yes,Easy,1 Year,Yes,All Features,Important,Yes
+Vivek,Male,25,Student,Yes,Never,Stocks,Yes,Moving Average,Maybe,Easy,1 Year,Yes,All Features,Important,Maybe
+Priya,Female,29,Private Employee,No,Several times a week,Fixed Deposits,No,Price,Maybe,Very Easy,5 Years,Maybe,All Features,Important,Yes
+Vivek,Male,33,Student,No,Several times a week,Stocks,No,Price,Yes,Moderate,1 Month,Yes,All Features,Moderately Important,Maybe
+Sahil,Male,24,Student,Yes,Never,Gold,Yes,Price,Maybe,Very Easy,6 Months,Yes,Moving Average,Very Important,Yes
+Karan,Male,32,Private Employee,No,Weekly,Stocks,Yes,Price,Yes,Moderate,5 Years,Maybe,All Features,Important,Yes
+Pooja,Female,25,Business,No,Never,Gold,No,Charts,Yes,Moderate,5 Years,Yes,All Features,Moderately Important,Yes
+Shubham,Male,21,Private Employee,No,Weekly,Fixed Deposits,Yes,Charts,Yes,Easy,6 Months,Yes,Price Charts,Moderately Important,Yes
+Shubham,Male,21,Private Employee,Yes,Never,Stocks,Yes,Historical Data,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Mansi,Female,33,Student,Yes,Never,Stocks,Yes,Volume,Yes,Easy,1 Month,Maybe,Trend Indicator,Important,Yes
+Tanvi,Female,31,Private Employee,No,Weekly,Mutual Funds,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Important,Maybe
+Om,Male,20,Other,Yes,Weekly,Stocks,Yes,Charts,Yes,Very Easy,6 Months,Yes,Price Charts,Important,Yes
+Pooja,Female,33,Private Employee,Yes,Never,Cryptocurrency,No,Volume,No,Moderate,1 Year,Yes,Trend Indicator,Important,Maybe
+Priya,Female,31,Private Employee,No,Several times a week,Fixed Deposits,No,Price,Maybe,Very Easy,5 Years,Maybe,All Features,Important,Yes
+Shubham,Male,21,Student,No,Weekly,Stocks,No,Moving Average,Yes,Moderate,1 Year,Maybe,Price Charts,Very Important,No
+Mansi,Female,26,Business,Yes,Several times a week,Mutual Funds,Yes,Historical Data,Yes,Easy,1 Year,Yes,Moving Average,Important,Yes
+Komal,Female,22,Private Employee,No,Weekly,Stocks,No,Historical Data,Yes,Easy,5 Years,Yes,All Features,Important,Yes
+Sanket,Male,25,Private Employee,Yes,Rarely,Mutual Funds,Yes,Historical Data,No,Easy,1 Year,Yes,Moving Average,Moderately Important,Yes
+Neha,Female,20,Student,Yes,Weekly,Stocks,Yes,Historical Data,Yes,Easy,1 Month,Yes,All Features,Important,No
+Aditya,Male,32,Government Employee,No,Rarely,Stocks,No,Charts,Yes,Very Easy,6 Months,Maybe,Moving Average,Moderately Important,Yes
+Karan,Male,29,Government Employee,Yes,Weekly,Stocks,Yes,Charts,Yes,Very Easy,1 Year,Yes,Price Charts,Moderately Important,Yes
+Dev,Male,27,Business,No,Never,Fixed Deposits,Yes,Price,Yes,Easy,1 Year,Yes,Moving Average,Important,Yes
+Atharva,Male,18,Student,No,Never,Stocks,No,Volume,Yes,Moderate,5 Years,Yes,Price Charts,Important,Maybe
+Karan,Male,31,Private Employee,No,Weekly,Stocks,Yes,Price,Yes,Moderate,5 Years,Maybe,All Features,Important,Yes
+Sakshi,Female,28,Student,Yes,Never,Gold,Yes,Charts,Yes,Easy,1 Month,No,Moving Average,Very Important,Yes
+Vaishnavi,Female,26,Student,No,Rarely,Gold,Yes,Moving Average,Yes,Moderate,5 Years,Yes,Historical Data,Moderately Important,Yes
+Dev,Male,23,Student,Yes,Several times a week,Stocks,No,Charts,Maybe,Moderate,6 Months,No,Moving Average,Very Important,Yes
+Nikita,Female,34,Private Employee,No,Rarely,Stocks,Yes,Price,Yes,Easy,1 Month,Yes,All Features,Very Important,No
+Pooja,Female,31,Business,No,Never,Cryptocurrency,No,Charts,Yes,Easy,5 Years,Yes,All Features,Important,Yes
+Sanket,Male,35,Other,No,Rarely,Stocks,No,Moving Average,Yes,Very Easy,6 Months,Maybe,Historical Data,Moderately Important,Yes
+Dev,Male,23,Student,Yes,Rarely,Fixed Deposits,Yes,Charts,No,Easy,6 Months,Yes,Moving Average,Important,Yes
+Pooja,Female,31,Student,No,Weekly,Stocks,Yes,Charts,Maybe,Very Easy,1 Year,Maybe,Moving Average,Very Important,Yes
+Aanya,Female,21,Student,No,Rarely,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Anjali,Female,20,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Easy,5 Years,Maybe,Trend Indicator,Very Important,Yes
+Shubham,Male,20,Student,No,Weekly,Stocks,No,Moving Average,Yes,Moderate,1 Year,Maybe,Price Charts,Very Important,No
+Yash,Male,34,Government Employee,Yes,Several times a week,Fixed Deposits,Yes,Volume,Maybe,Easy,1 Month,No,All Features,Important,Yes
+Komal,Female,18,Student,No,Rarely,Fixed Deposits,No,Charts,Yes,Very Easy,1 Year,Maybe,Moving Average,Moderately Important,Yes
+Dev,Male,34,Private Employee,No,Daily,Stocks,Yes,Charts,Yes,Moderate,5 Years,No,Trend Indicator,Very Important,Yes
+Akash,Male,19,Business,No,Rarely,Stocks,Yes,Volume,Maybe,Very Easy,1 Year,Yes,Historical Data,Important,No
+Aarav,Male,26,Business,Yes,Several times a week,Fixed Deposits,Yes,Price,Maybe,Easy,5 Years,Yes,Moving Average,Very Important,Yes
+Priya,Female,32,Private Employee,No,Never,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,Moving Average,Very Important,Maybe
+Aditya,Male,30,Student,No,Never,Mutual Funds,No,Moving Average,Maybe,Easy,1 Year,Yes,Price Charts,Important,Yes
+Diya,Female,28,Student,Yes,Several times a week,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Important,Yes
+Karan,Male,24,Business,No,Weekly,Gold,Yes,Moving Average,Yes,Easy,6 Months,Yes,Price Charts,Important,Yes
+Vikas,Male,22,Private Employee,Yes,Rarely,Stocks,No,Charts,Yes,Very Easy,5 Years,Yes,All Features,Very Important,Yes
+Vivek,Male,34,Student,No,Several times a week,Stocks,No,Price,Yes,Moderate,1 Month,Yes,All Features,Moderately Important,Maybe
+Isha,Female,19,Private Employee,No,Rarely,Gold,Yes,Historical Data,Yes,Very Easy,1 Month,Yes,Moving Average,Very Important,Yes
+Vikas,Male,22,Private Employee,No,Rarely,Cryptocurrency,No,Price,Yes,Easy,6 Months,Yes,All Features,Important,Yes
+Aditya,Male,32,Student,No,Never,Mutual Funds,No,Moving Average,Maybe,Easy,1 Year,Yes,Price Charts,Important,Yes
+Simran,Female,22,Business,Yes,Daily,Stocks,Yes,Charts,Yes,Easy,5 Years,Yes,Trend Indicator,Very Important,Yes
+Nikita,Female,31,Business,No,Never,Mutual Funds,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Rahul,Male,21,Student,No,Daily,Fixed Deposits,Yes,Charts,Yes,Easy,5 Years,Yes,All Features,Moderately Important,Yes
+Nikita,Female,20,Private Employee,Yes,Weekly,Cryptocurrency,No,Historical Data,Yes,Moderate,5 Years,Maybe,Trend Indicator,Very Important,Maybe
+Sanket,Male,25,Private Employee,Yes,Rarely,Mutual Funds,Yes,Historical Data,No,Easy,1 Year,Yes,Moving Average,Moderately Important,Yes
+Nikita,Female,33,Business,No,Never,Mutual Funds,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Sneha,Female,26,Private Employee,No,Never,Mutual Funds,Yes,Charts,Yes,Very Easy,1 Year,No,All Features,Very Important,Yes
+Vikas,Male,20,Student,Yes,Rarely,Gold,No,Price,Maybe,Easy,1 Month,Yes,All Features,Important,Yes
+Rahul,Male,25,Business,No,Never,Fixed Deposits,Yes,Charts,Yes,Easy,5 Years,Yes,Moving Average,Moderately Important,Yes
+Nikita,Female,23,Private Employee,No,Rarely,Mutual Funds,Yes,Historical Data,Yes,Very Easy,1 Year,Yes,Moving Average,Important,Maybe
+Vivek,Male,31,Private Employee,Yes,Daily,Stocks,Yes,Price,Yes,Very Easy,6 Months,Yes,Moving Average,Moderately Important,Maybe
+Akash,Male,32,Student,No,Daily,Mutual Funds,Yes,Price,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Vivek,Male,34,Student,No,Several times a week,Stocks,No,Price,Yes,Moderate,1 Month,Yes,All Features,Moderately Important,Maybe
+Priya,Female,32,Private Employee,Yes,Never,Mutual Funds,Yes,Price,Yes,Easy,1 Year,No,All Features,Important,Yes
+Diya,Female,34,Other,Yes,Several times a week,Stocks,Yes,Price,Yes,Very Easy,1 Month,Yes,All Features,Important,Yes
+Nikita,Female,23,Student,Yes,Never,Fixed Deposits,No,Charts,Yes,Very Easy,1 Year,No,Price Charts,Important,Yes
+Vaishnavi,Female,34,Student,Yes,Rarely,Stocks,Yes,Volume,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Aditya,Male,20,Government Employee,Yes,Several times a week,Stocks,No,Historical Data,Yes,Moderate,1 Year,Yes,Historical Data,Very Important,Yes
+Amit,Male,19,Student,No,Weekly,Mutual Funds,Yes,Charts,Yes,Very Easy,6 Months,Yes,All Features,Very Important,Yes
+Aarav,Male,30,Private Employee,Yes,Weekly,Gold,Yes,Moving Average,Yes,Moderate,5 Years,Yes,All Features,Moderately Important,Yes
+Aarav,Male,30,Business,Yes,Rarely,Cryptocurrency,No,Volume,No,Easy,6 Months,Yes,All Features,Important,Yes
+Om,Male,18,Student,No,Weekly,Fixed Deposits,No,Charts,No,Easy,5 Years,Maybe,All Features,Moderately Important,Maybe
+Pooja,Female,31,Business,No,Never,Cryptocurrency,No,Charts,Yes,Easy,5 Years,Yes,All Features,Important,Yes
+Akash,Male,35,Private Employee,No,Several times a week,Stocks,Yes,Moving Average,Yes,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Priya,Female,25,Student,No,Rarely,Stocks,No,Price,No,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Sneha,Female,28,Private Employee,No,Never,Mutual Funds,Yes,Charts,Yes,Very Easy,1 Year,No,All Features,Very Important,Yes
+Om,Male,23,Private Employee,Yes,Rarely,Mutual Funds,No,Moving Average,Yes,Easy,1 Year,Yes,Trend Indicator,Moderately Important,Maybe
+Nikita,Female,21,Private Employee,Yes,Weekly,Cryptocurrency,No,Historical Data,Yes,Moderate,5 Years,Maybe,Trend Indicator,Very Important,Maybe
+Aarav,Male,30,Private Employee,No,Rarely,Stocks,Yes,Price,Yes,Easy,5 Years,Maybe,All Features,Very Important,Yes
+Nikita,Female,22,Private Employee,Yes,Weekly,Cryptocurrency,No,Historical Data,Yes,Moderate,5 Years,Maybe,Trend Indicator,Very Important,Maybe
+Nikita,Female,23,Private Employee,No,Rarely,Mutual Funds,Yes,Historical Data,Yes,Very Easy,1 Year,Yes,Moving Average,Important,Maybe
+Dev,Male,27,Student,Yes,Weekly,Fixed Deposits,No,Historical Data,Yes,Easy,6 Months,No,Trend Indicator,Important,Maybe
+Ankita,Female,19,Business,No,Never,Stocks,Yes,Volume,Yes,Easy,1 Year,Maybe,Price Charts,Important,Maybe
+Komal,Female,23,Student,No,Several times a week,Stocks,No,Price,Yes,Easy,6 Months,Yes,Trend Indicator,Very Important,Maybe
+Dev,Male,32,Business,Yes,Several times a week,Cryptocurrency,Yes,Charts,No,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Om,Male,26,Private Employee,Yes,Rarely,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Very Important,Yes
+Neha,Female,20,Student,No,Rarely,Mutual Funds,Yes,Historical Data,Maybe,Easy,5 Years,Maybe,Historical Data,Important,Yes
+Atharva,Male,23,Business,Yes,Rarely,Mutual Funds,No,Charts,Yes,Moderate,5 Years,Yes,Trend Indicator,Important,Maybe
+Rohan,Male,24,Business,Yes,Rarely,Gold,Yes,Volume,Maybe,Easy,1 Month,Yes,Price Charts,Important,Yes
+Mansi,Female,31,Student,Yes,Never,Stocks,Yes,Volume,Yes,Easy,1 Month,Maybe,Trend Indicator,Important,Yes
+Dev,Male,26,Student,Yes,Weekly,Fixed Deposits,No,Historical Data,Yes,Easy,6 Months,No,Trend Indicator,Important,Maybe
+Vivek,Male,25,Student,No,Rarely,Stocks,Yes,Price,Yes,Very Easy,1 Year,Maybe,All Features,Important,Maybe
+Arjun,Male,19,Student,Yes,Weekly,Mutual Funds,Yes,Price,Yes,Easy,1 Year,Yes,Price Charts,Important,Maybe
+Shruti,Female,35,Private Employee,Yes,Never,Cryptocurrency,Yes,Price,Yes,Moderate,1 Year,Yes,All Features,Very Important,Yes
+Priya,Female,32,Private Employee,No,Never,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,Moving Average,Very Important,Maybe
+Priya,Female,30,Private Employee,Yes,Never,Mutual Funds,Yes,Price,Yes,Easy,1 Year,No,All Features,Important,Yes
+Akash,Male,33,Private Employee,No,Several times a week,Stocks,Yes,Moving Average,Yes,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Aditya,Male,22,Private Employee,No,Weekly,Fixed Deposits,Yes,Price,No,Easy,6 Months,No,Price Charts,Moderately Important,Yes
+Dev,Male,31,Business,Yes,Several times a week,Cryptocurrency,Yes,Charts,No,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Aarav,Male,21,Student,Yes,Never,Fixed Deposits,Yes,Charts,Yes,Moderate,6 Months,Yes,All Features,Important,Yes
+Dev,Male,35,Student,No,Daily,Stocks,Yes,Volume,No,Easy,1 Year,Yes,All Features,Very Important,Yes
+Rohan,Male,25,Business,Yes,Rarely,Gold,Yes,Volume,Maybe,Easy,1 Month,Yes,Price Charts,Important,Yes
+Kavya,Female,34,Student,No,Rarely,Fixed Deposits,Yes,Charts,Yes,Very Easy,5 Years,Yes,Price Charts,Moderately Important,No
+Pooja,Female,31,Private Employee,Yes,Never,Cryptocurrency,No,Volume,No,Moderate,1 Year,Yes,Trend Indicator,Important,Maybe
+Vaishnavi,Female,33,Student,Yes,Several times a week,Gold,No,Price,Yes,Very Easy,1 Year,Yes,All Features,Very Important,Yes
+Rahul,Male,26,Business,No,Never,Fixed Deposits,Yes,Charts,Yes,Easy,5 Years,Yes,Moving Average,Moderately Important,Yes
+Mansi,Female,34,Student,No,Rarely,Fixed Deposits,No,Price,Yes,Very Easy,1 Year,Yes,Moving Average,Important,Yes
+Nikita,Female,20,Government Employee,Yes,Rarely,Mutual Funds,Yes,Moving Average,Yes,Easy,1 Year,Maybe,All Features,Moderately Important,Yes
+Atharva,Male,24,Business,No,Several times a week,Mutual Funds,Yes,Price,Yes,Easy,6 Months,Yes,Moving Average,Important,Yes
+Akash,Male,33,Private Employee,No,Several times a week,Stocks,Yes,Moving Average,Yes,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Mansi,Female,31,Other,No,Rarely,Cryptocurrency,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Important,No
+Karan,Male,33,Private Employee,No,Weekly,Stocks,Yes,Price,Yes,Moderate,5 Years,Maybe,All Features,Important,Yes
+Nikita,Female,23,Student,Yes,Never,Fixed Deposits,No,Charts,Yes,Very Easy,1 Year,No,Price Charts,Important,Yes
+Om,Male,25,Private Employee,Yes,Rarely,Stocks,Yes,Charts,Yes,Easy,1 Year,Maybe,All Features,Very Important,Yes
+Vikas,Male,24,Private Employee,No,Rarely,Cryptocurrency,No,Price,Yes,Easy,6 Months,Yes,All Features,Important,Yes
+Dev,Male,24,Student,Yes,Rarely,Fixed Deposits,Yes,Charts,No,Easy,6 Months,Yes,Moving Average,Important,Yes
+Priya,Female,29,Private Employee,No,Several times a week,Fixed Deposits,No,Price,Maybe,Very Easy,5 Years,Maybe,All Features,Important,Yes
+Vivek,Male,27,Private Employee,No,Rarely,Gold,No,Charts,Yes,Moderate,6 Months,Yes,All Features,Very Important,Maybe
+Dev,Male,29,Business,No,Never,Fixed Deposits,Yes,Price,Yes,Easy,1 Year,Yes,Moving Average,Important,Yes
+Akash,Male,33,Student,No,Rarely,Gold,Yes,Volume,Yes,Easy,1 Year,Yes,Price Charts,Important,Yes
+Rohan,Male,27,Private Employee,Yes,Never,Stocks,Yes,Charts,Yes,Moderate,1 Month,No,Moving Average,Important,Yes
+Pooja,Female,24,Government Employee,No,Daily,Gold,Yes,Price,Yes,Very Easy,1 Year,Maybe,Trend Indicator,Important,Yes
+Mansi,Female,28,Other,Yes,Rarely,Stocks,Yes,Historical Data,Maybe,Very Easy,1 Year,Maybe,All Features,Important,Yes
+Mansi,Female,30,Student,No,Never,Fixed Deposits,Yes,Charts,Yes,Moderate,1 Year,Yes,Trend Indicator,Important,Yes
+Aditya,Male,18,Government Employee,Yes,Several times a week,Stocks,No,Historical Data,Yes,Moderate,1 Year,Yes,Historical Data,Very Important,Yes
+Shubham,Male,20,Student,No,Weekly,Stocks,No,Moving Average,Yes,Moderate,1 Year,Maybe,Price Charts,Very Important,No
+Om,Male,18,Student,No,Weekly,Fixed Deposits,No,Charts,No,Easy,5 Years,Maybe,All Features,Moderately Important,Maybe
+Komal,Female,25,Student,No,Rarely,Gold,Yes,Charts,Yes,Moderate,6 Months,Yes,Price Charts,Important,Yes
+Sanket,Male,25,Private Employee,Yes,Rarely,Mutual Funds,Yes,Historical Data,No,Easy,1 Year,Yes,Moving Average,Moderately Important,Yes
+Aniket,Male,34,Government Employee,Yes,Rarely,Stocks,Yes,Price,Yes,Easy,1 Month,Maybe,Moving Average,Very Important,Yes
+Aarav,Male,29,Business,No,Several times a week,Stocks,No,Charts,Yes,Easy,1 Year,Yes,Price Charts,Moderately Important,Yes
+Priya,Female,24,Student,No,Rarely,Stocks,No,Price,No,Easy,1 Year,Yes,Trend Indicator,Important,Yes
+Mansi,Female,32,Other,Yes,Several times a week,Fixed Deposits,No,Charts,Maybe,Easy,6 Months,Yes,Trend Indicator,Very Important,Yes
+Arjun,Male,22,Other,No,Never,Mutual Funds,No,Charts,Yes,Easy,1 Year,Maybe,All Features,Important,Yes
+Dhruv,Male,29,Government Employee,Yes,Daily,Fixed Deposits,Yes,Charts,Yes,Very Easy,5 Years,Yes,Price Charts,Important,Yes
+Dev,Male,27,Student,Yes,Weekly,Fixed Deposits,No,Historical Data,Yes,Easy,6 Months,No,Trend Indicator,Important,Maybe
+Aarav,Male,29,Private Employee,Yes,Weekly,Gold,Yes,Moving Average,Yes,Moderate,5 Years,Yes,All Features,Moderately Important,Yes
+Sakshi,Female,28,Student,Yes,Never,Gold,Yes,Charts,Yes,Easy,1 Month,No,Moving Average,Very Important,Yes
+Saurabh,Male,26,Student,No,Rarely,Stocks,Yes,Moving Average,Yes,Easy,5 Years,Yes,Moving Average,Very Important,Yes
+Aarav,Male,32,Business,Yes,Rarely,Cryptocurrency,No,Volume,No,Easy,6 Months,Yes,All Features,Important,Yes
+Priya,Female,26,Government Employee,No,Several times a week,Gold,Yes,Moving Average,Maybe,Easy,1 Year,Yes,Trend Indicator,Very Important,Yes
+Pooja,Female,29,Student,No,Weekly,Stocks,Yes,Charts,Maybe,Very Easy,1 Year,Maybe,Moving Average,Very Important,Yes
+Vaishnavi,Female,24,Student,No,Rarely,Gold,Yes,Moving Average,Yes,Moderate,5 Years,Yes,Historical Data,Moderately Important,Yes
+Om,Male,35,Business,No,Weekly,Mutual Funds,No,Price,Yes,Very Easy,1 Year,Maybe,Trend Indicator,Moderately Important,Maybe
+Vivek,Male,22,Student,No,Weekly,Stocks,Yes,Historical Data,Yes,Easy,5 Years,Yes,Price Charts,Important,Yes
+Dev,Male,32,Business,Yes,Several times a week,Cryptocurrency,Yes,Charts,No,Easy,1 Year,Yes,Moving Average,Important,Maybe
+Aanya,Female,22,Student,No,Rarely,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,All Features,Important,Yes
+Mansi,Female,32,Student,Yes,Never,Stocks,Yes,Volume,Yes,Easy,1 Month,Maybe,Trend Indicator,Important,Yes
+Shubham,Male,30,Business,No,Never,Stocks,No,Price,Maybe,Very Easy,1 Year,Yes,Trend Indicator,Very Important,Yes
+Om,Male,30,Business,No,Weekly,Cryptocurrency,Yes,Charts,Maybe,Easy,1 Year,Yes,Moving Average,Important,Yes
+Tanvi,Female,26,Student,Yes,Never,Stocks,Yes,Charts,Yes,Moderate,1 Year,Yes,Moving Average,Very Important,Yes
+Vikas,Male,27,Business,No,Weekly,Stocks,No,Historical Data,Yes,Very Easy,1 Month,Yes,All Features,Important,Maybe
+Ankita,Female,25,Student,No,Daily,Fixed Deposits,No,Historical Data,Yes,Moderate,6 Months,Yes,Moving Average,Important,Yes
+Anjali,Female,21,Student,No,Rarely,Mutual Funds,Yes,Price,Yes,Easy,5 Years,Maybe,Trend Indicator,Very Important,Yes
